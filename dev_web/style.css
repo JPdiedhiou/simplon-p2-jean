@@ -1,0 +1,152 @@
+body{
+    background:linear-gradient(to bottom right, white, #bcbdc4);
+    height:4000px;   
+}
+.headerx{
+position:absolute;
+width:100%;
+height:100px;
+top:0;
+left:0;
+color:white;
+z-index:7;
+font-family:verdana;
+ -webkit-box-flex: 0 3px 8px rgba(0, 0, 0, .25);
+}
+.header{
+position:absolute;
+width:100%;
+height:100px;
+background:#4267B2;
+top:0;
+left:0;
+color:white;
+z-index:7;
+font-family:verdana;
+}
+p{
+padding:0px;
+margin-left: 15%;
+height:25px;
+width:120px;
+font-size: 35px;
+}
+#img2{
+top:190px;
+left:60px;
+height: 250px;
+width: 550px;
+}
+
+#form1{
+left:640px;
+top:20px;
+height:60px;
+width:180px;
+}
+#form2{
+    left:895px;
+    top:20px;
+    height:60px;
+    width:200px;  
+}
+#form3{
+    top: 180px;
+    left: 700px;
+    font-family: verdana;
+    font-size: 20px;
+    color: #142170;
+    width: 450px;
+    height: 495px;
+    /*background: blue;*/
+}
+.submit1{
+    left:1150px;
+    top:40px;
+    background:white;
+    color:#142170;
+    position:absolute;
+    z-index:20;
+    height:25px;
+    width:70px;
+    cursor:pointer;
+}
+.bodyx{
+    position:absolute;
+    left:0;
+    top:100px;
+    width:100%;
+    height:645px;
+    /*background: blue;*/
+}
+#intro1{
+    top:135px;
+    left:90px;
+    font-family:Verdana;
+    font-size:20px;
+    color:#142170;
+    height:75px;
+    width:600px;
+}
+#intro2{
+    top:106px;
+    left:700px;
+    font-family:Verdana;
+    font-size:30px;
+    color:#142170;
+    height:60px;
+    width:500px;
+}
+#intro3{
+    top:145px;
+    left:700px;
+    font-family:Verdana;
+    font-size:20px;
+    color:#142170;
+    height:50px;
+    width:300px;
+}
+#namebox{
+ width: 200px;
+ height: 35px;
+ border-radius: 8px/8px;
+ background: white;
+ padding: 6px;
+ font-size: 20px;
+}
+#mailbox{
+width: 422px;
+height: 35px;
+border-radius: 8px/8px;
+background:white;
+padding:6px;
+font-size: 20px;
+}
+.button2{
+    width: 100px;
+    height: 50px;
+    left: 700px;
+    top: 665px;
+    background: green;
+    position: absolute;
+    color: white;
+    font-size: 20px;
+    border-radius: 15px/15px;
+    cursor:pointer;
+    outline: none;
+}
+.body1{
+position: absolute;
+left: 0;
+top: 850px;
+width: 100%;
+height: 80px;
+background: white;
+}
+#conclu1{
+    width: 930px;
+    top: 15px;
+    left: 200px;
+    color: #bcbdc4;
+    height: 60px;
+}
