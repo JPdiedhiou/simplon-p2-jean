@@ -1,0 +1,474 @@
+body {
+    padding: 0px;
+    margin: 0px;
+    margin-top: 70px;
+    background-color: #3580bf;
+}
+
+#navbar {
+    position: fixed;
+    width: 100%;
+    height: 70px;
+    top: 0px;
+    list-style-type: none;
+    text-align: center;
+}
+
+#link-ref {
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    padding: 15px;
+    display: inline-block;
+    font-size: 16px;
+    padding: 14px 16px;
+}
+
+ul {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #3580bf;
+}
+
+a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+a:hover:not(.active) {
+    background-color: black;
+}
+
+.active {
+    background-color: black;
+}
+
+a {
+    border-right: 1px solid #bbb;
+}
+
+a:last-child {
+    border-right: none;
+}
+
+
+/*le conteneur de slide*/
+
+.slider-container {
+    width: 100%;
+    height: 500px;
+    max-width: 1000px;
+    user-select: none;
+    box-shadow: 0px 0px 3px 1px #00000078;
+    padding: 10px;
+    box-sizing: border-box;
+    margin: 0 auto;
+}
+
+
+/*le conteneur d'image/slide */
+
+.slider-container .slideShowContainer {
+    width: 100%;
+    height: 90%;
+    overflow: hidden;
+    background-color: gainsboro;
+    position: relative;
+}
+
+
+/*Definition position et taille du conteneur*/
+
+.slider-container .slideShowContainer .imageHolder {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    /*ceci per;et de cacher toutes les images*/
+    opacity: 0;
+}
+
+
+/*Definition de la taille des images sources*/
+
+.slider-container .slideShowContainer .imageHolder img {
+    width: 100%;
+    height: 100%;
+}
+
+
+/*Disposition du caption text */
+
+.slider-container .slideShowContainer .imageHolder .captionText {
+    display: none;
+}
+
+
+/*curseur de defilement gauche et droite*/
+
+.slider-container .slideShowContainer .leftArrow,
+.slider-container .slideShowContainer .rightArrow {
+    width: 50px;
+    background: #00000036;
+    position: absolute;
+    left: 0;
+    z-index: 1;
+    transition: background 0.5s;
+    height: 72px;
+    top: 50%;
+    transform: translateY(-50%);
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
+
+
+/*curseur de defilement droit*/
+
+.slider-container .slideShowContainer .rightArrow {
+    left: auto;
+    right: 0;
+    border-top-left-radius: 0px;
+    border-bottom-left-radius: 0px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+
+/*stylisation du curseur de defilement lors du pointage de la souris*/
+
+.slider-container .slideShowContainer .leftArrow:hover,
+.slider-container .slideShowContainer .rightArrow:hover {
+    background: #000000a8;
+    cursor: pointer;
+}
+
+
+/*stylisation des fleches de defilement*/
+
+.slider-container .slideShowContainer .arrow {
+    display: inline-block;
+    border: 3px solid white;
+    width: 10px;
+    height: 10px;
+    border-left: none;
+    border-bottom: none;
+    margin: auto;
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+}
+
+
+/*orientation de la fleche de defilement*/
+
+.slider-container .slideShowContainer .arrow.arrowLeft {
+    transform: rotateZ(-135deg);
+}
+
+
+/*orientation de la fleche de defilement*/
+
+.slider-container .slideShowContainer .arrow.arrowRight {
+    transform: rotateZ(45deg);
+}
+
+
+/*stylisation et positionnement du text de chaque slide*/
+
+.slider-container .slideShowContainer>.captionHolder {
+    position: absolute;
+    bottom: 0;
+    z-index: 1;
+    color: white;
+    font-family: sans-serif;
+    font-size: 20px;
+    text-align: center;
+    width: 100%;
+    background: #00000047;
+    height: 50px;
+    line-height: 50px;
+    overflow: hidden;
+}
+
+
+/*placer le text de maniere convenable*/
+
+.slider-container .slideShowContainer>.captionHolder>.captionText {
+    margin: 0;
+}
+
+
+/*stylisation play pause button slider*/
+
+.slider-container .slideShowContainer .playPauseBtn {
+    width: 32px;
+    height: 32px;
+    position: absolute;
+    z-index: 5;
+    margin: 5px;
+    cursor: pointer;
+    background-image: url("");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+/*definition de la position et de la taille du conteneur de points*/
+
+.slider-container #dotsContainer {
+    width: 100%;
+    height: 10%;
+    text-align: center;
+    padding-top: 20px;
+    box-sizing: border-box;
+}
+
+
+/*stylisation des points de defilement*/
+
+.slider-container #dotsContainer .dots {
+    display: inline-block;
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+    margin-left: 10px;
+    background-color: #bbb;
+    cursor: pointer;
+    transition: background-color 0.5s;
+}
+
+
+/*stylisation lors du pointage du curseur*/
+
+.slider-container #dotsContainer .dots:hover,
+.slider-container #dotsContainer .dots.active {
+    background-color: #717171;
+}
+
+
+/*ceci supprime le decalage gauche par rapport aux autres points*/
+
+.slider-container #dotsContainer .dots:first-child {
+    margin-left: 0;
+}
+
+
+/*Pour le deplacement des slides a gauche avec le bouton gauche*/
+
+.slider-container .moveLeftCurrentSlide {
+    animation-name: moveLeftCurrent;
+    animation-duration: 0.5s;
+    animation-timing-function: linear;
+    animation-fill-mode: forwards;
+}
+
+
+/*Pour le deplacement des slides a gauche avec le bouton gauche*/
+
+.slider-container .moveLeftNextSlide {
+    animation-name: moveLeftNext;
+    animation-duration: 0.5s;
+    animation-timing-function: linear;
+    animation-fill-mode: forwards;
+}
+
+
+/**/
+
+@keyframes moveLeftCurrent {
+    from {
+        margin-left: 0;
+        opacity: 1;
+    }
+    to {
+        margin-left: -100%;
+        opacity: 1;
+    }
+}
+
+
+/**/
+
+@keyframes moveLeftNext {
+    from {
+        margin-left: 100%;
+        opacity: 1;
+    }
+    to {
+        margin-left: 0%;
+        opacity: 1;
+    }
+}
+
+.slider-container .moveRightCurrentSlide {
+    animation-name: moveRightCurrent;
+    animation-duration: 0.5s;
+    animation-timing-function: linear;
+    animation-fill-mode: forwards;
+}
+
+
+/**/
+
+@keyframes moveRightCurrent {
+    from {
+        margin-left: 0;
+        opacity: 1;
+    }
+    to {
+        margin-left: 100%;
+        opacity: 1;
+    }
+}
+
+.slider-container .moveRightNextSlide {
+    animation-name: moveRightNext;
+    animation-duration: 0.5s;
+    animation-timing-function: linear;
+    animation-fill-mode: forwards;
+}
+
+
+/**/
+
+@keyframes moveRightNext {
+    from {
+        margin-left: -100%;
+        opacity: 1;
+    }
+    to {
+        margin-left: 0;
+        opacity: 1;
+    }
+}
+
+
+/**/
+
+.slideTextFromBottom {
+    animation-name: slideTextFromBottom;
+    animation-duration: .7s;
+    animation-timing-function: ease-out;
+}
+
+@keyframes slideTextFromBottom {
+    from {
+        opacity: o;
+        margin-top: -100px;
+    }
+    to {
+        opacity: 1;
+        margin-top: 0;
+    }
+}
+
+h1 {
+    text-align: center;
+    color: #f0f2f7;
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    grid-template-rows: 200px 200px;
+    grid-gap: 10px;
+    padding: 10px;
+}
+
+.grid-container>div a {
+    background-color: rgba(255, 255, 255, 0.8);
+    text-align: center;
+    padding: 20px 0;
+    font-size: 30px;
+}
+
+.row-row {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    grid-template-rows: 200px 200px;
+    grid-gap: 10px;
+    padding: 10px;
+}
+
+.col-sm-4 .polaroid {
+    text-align: center;
+    padding: 20px 0;
+    font-size: 20px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    font-family: sans-serif;
+}
+
+th,
+td {
+    padding: 10px;
+    text-align: left;
+    border: solid 1px #ccc;
+}
+
+th {
+    background-color: black;
+    color: white;
+}
+
+tr:nth-child(add) {
+    background-color: #eee;
+}
+
+@media only screen and (max-width: 700px) {
+    .table-responsive table,
+    .table-responsive thead,
+    .table-responsive tbody,
+    .table-responsive tr,
+    .table-responsive th,
+    .table-responsive td {
+        display: block;
+    }
+    .table-responsive thead {
+        display: none;
+    }
+    .table-responsive td {
+        padding-left: 150px;
+        position: relative;
+        margin-top: -1px;
+        background: #FFF;
+    }
+    .table-responsive td:nth-child(add) {
+        background-color: #eee;
+    }
+    .table-responsive td::before {
+        padding: 10px;
+        content: attr(data-label);
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 130px;
+        bottom: 0;
+        background-color: black;
+        color: #FFF;
+        display: flex;
+        align-items: center;
+        font-weight: bold;
+    }
+    .table-responsive tr {
+        margin-bottom: 1rem;
+    }
+    .table-responsive th+td {
+        padding-left: 10px;
+    }
+    .table-responsive th+td::before {
+        display: none;
+    }
+}

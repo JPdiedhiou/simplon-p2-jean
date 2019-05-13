@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Fixed Navigation Bar</title>
+    <link rel="stylesheet" href="css/navbar.css">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css" integrity="sha384-oS3vJWv+0UjzBfQzYUhtDYW+Pj2yciDJxpsK1OYPAYjqT085Qq/1cq5FLXAZQ7Ay" crossorigin="anonymous">
+    <script src="js/caroussel1.js" async></script>
+
+</head>
+
+<body>
+    <!--Barre de navigation-->
+    <center>
+        <div id="navbar">
+            <ul>
+                <a href="index.html" id="link-ref" class="active">Accueil</a>
+                <a href="services.html" id="link-ref">Services</a>
+                <a href="livraisons.html" id="link-ref">Livraisons</a>
+                <a href="souscription.html" id="link-ref">Souscription</a>
+            </ul>
+        </div>
+    </center>
+    <!--Fin barre de navigation-->
+    <div class="container">
+        <!--le conteneur de slide-->
+        <div class="slider-container">
+            <!--Bouton play pause de slide-->
+            <div id="playPauseBtn" onclick="playPauseSlides()">
+
+            </div>
+            <!--Le conteneur d'image-->
+            <div class="slideShowContainer">
+                <!--Les fleches de defilement -->
+                <div class="leftArrow" onclick="plusSlides(-1)">
+                    <span class="arrow arrowLeft"></span>
+                </div>
+                <div class="rightArrow" onclick="plusSlides(1)">
+                    <span class="arrow arrowRight"></span>
+                </div>
+                <!--  -->
+                <div class="captionHolder" onclick="plusSlides(-1)">
+                    <p class="captionText"></p>
+                </div>
+                <!--source et traitement de l'image-->
+                <div class="imageHolder">
+                    <img src="images/transit1.jpeg" alt="">
+                    <p class="captionText"> Caption Text-01</p>
+                </div>
+                <!--source et traitement de l'image-->
+                <div class="imageHolder">
+                    <img src="images/transit2.jpg" alt="">
+                    <p class="captionText"> Caption Text-02</p>
+                </div>
+                <!--source et traitement de l'image-->
+                <div class="imageHolder">
+                    <img src="images/transit3.jpg" alt="">
+                    <p class="captionText"> Caption Text-03</p>
+                </div>
+                <!--source et traitement de l'image-->
+                <div class="imageHolder">
+                    <img src="images/transit4.jpg" alt="">
+                    <p class="captionText"> Caption Text-04</p>
+                </div>
+
+            </div>
+            <!--Definit les points de defilement des slides-->
+            <div id="dotsContainer"></div>
+            <!--Fin definition des points-->
+            <!--Cette partie contiendra le resume des activite de l'entreprise-->
+            <br>
+            <h1>A propos de nous </h1>
+            <div class="container-fluid bg-2 text-center">
+                <h3>What Am I?</h3>
+                <p>Lorem ipsum.. Lorem ipsum dolor sit amet, consectetur adipisicing <br> elit... Lorem ipsum dolor sit amet, consectetur adipisicing elit... Lorem ipsum <br> dolor sit amet, consectetur adipisicing elit... Lorem ipsum dolor sit amet, consectetur
+                    <br> adipisicing elit... Lorem ipsum dolor sit amet, consectetur adipisicing elit...
+                </p>
+            </div>
+            <!--Cette partie contiendra la gallerie photo-->
+            <br>
+            <h1>Gallerie</h1>
+            <div class="grid-container">
+                <div>
+                    <a target="_blank" href="#img_lights.jpg">
+                        <img src="/images/transit8.jpg" alt="Lights" width="320" height="170">
+                    </a>
+                </div>
+                <div>
+                    <a target="_blank" href="#img_lights.jpg">
+                        <img src="/images/transit9.jpg" alt="Lights" width="300" height="170">
+                    </a>
+                </div>
+                <div>
+                    <a target="_blank" href="#img_lights.jpg">
+                        <img src="/images/transit10.jpeg" alt="Lights" width="300" height="170">
+                    </a>
+                </div>
+                <div>
+                    <a target="_blank" href="#img_lights.jpg">
+                        <img src="/images/transit11.jpeg" alt="Lights" width="300" height="170">
+                    </a>
+                </div>
+                <div>
+                    <a target="_blank" href="#img_lights.jpg">
+                        <img src="/images/transit12.jpeg" alt="Lights" width="300" height="170">
+                    </a>
+                </div>
+                <div>
+
+                    <a target="_blank" href="#img_lights.jpg">
+                        <img src="/images/transit13.jpeg" alt="Lights" width="300" height="170">
+                    </a>
+                </div>
+            </div>
+            <!--Fin de la gallerie photo-->
+            <br>
+            <br>
+            <h1>Nos Partenaires</h1>
+            <!--ceci contiendra l'ensemble des partenaires-->
+            <div class="row-row">
+                <div class="col-sm-4">
+                    <div class="polaroid">
+                        <img src="images/img20.jpg" alt="image partenaire" style="width:100%; border-radius:50%;">
+                        <div class="container">
+                            <p>Detail du partenariat</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-4">
+                    <div class="polaroid">
+                        <img src="images/img14.jpeg" alt="image partenaire" style="width:100%; border-radius:50%;">
+                        <div class="container">
+                            <p>Detail du partenariat</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-4">
+                    <div class="polaroid">
+                        <img src="images/img7.jpeg" alt="image partenaire" style="width:100%; border-radius:50%;">
+                        <div class="container">
+                            <p>Detail du partenariat</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <br><br>
+            <!--Fin conteneur partenaires-->
+
+        </div>
+    </div>
+
+</body>
+
+</html>
