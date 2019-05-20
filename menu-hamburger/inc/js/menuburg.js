@@ -1,8 +1,16 @@
 //fonction d'animation sortie et rentrer  menu
 function toggleSidebar() {
+    console.log("Hello world")
     document.getElementById("sidebar").classList.toggle('active');
 
 }
+/*classList est un attribut
+**Pour ameliorer mon code ce syntaxe serait plus adequat
+** btn.addEventListener("click", function(){
+    document.getElementById("sidebar");
+})
+*/
+
 
 //fonction de creation d'un digital Clock
 function showTime() {

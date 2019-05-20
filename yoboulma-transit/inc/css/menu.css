@@ -2,6 +2,7 @@ h1 {
     font-weight: bold;
     margin: 0;
     padding: 10px;
+    color: black;
 }
 
 p {
@@ -30,8 +31,8 @@ a {
 
 button {
     border-radius: 20px;
-    border: 1px solid #110b0a;
-    background-color: blue;
+    border: 1px solid #eee;
+    background-color: #3580bf;
     color: #ffffff;
     font-size: 12px;
     font-weight: bold;
@@ -51,7 +52,7 @@ button:focus {
 
 button.ghost {
     background-color: transparent;
-    border-color: #ffffff;
+    border-color: #eee;
 }
 
 form {
@@ -90,7 +91,7 @@ input {
 }
 
 body {
-    background-color: blue;
+    background-color: #3580bf;
 }
 
 .container {
@@ -103,7 +104,7 @@ body {
     overflow: hidden;
     width: 100%;
     max-width: 100%;
-    min-height: 550px;
+    min-height: 500px;
 }
 
 .form-container {
@@ -166,9 +167,9 @@ body {
 }
 
 .overlay {
-    background: #4f2ce9;
-    background: -webkit-linear-gradient(to right, #616ee9, #7258e4);
-    background: linear-gradient(to right, #2b40ff, #3b20d8);
+    background: #3580bf;
+    background: -webkit-linear-gradient(to right, #3580bf, #3580bf);
+    background: linear-gradient(to right, #3580bf, #3580bf);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: 0 0;
