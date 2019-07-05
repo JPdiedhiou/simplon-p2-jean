@@ -1,0 +1,42 @@
+=== START test_database 2019-06-03 11:25:33 ===
+[ERROR] Impossible de se connecter à la base de données de Magento. Merci de vérifier vos paramètres. Et soyez certains que le serveur WordPress ait accès à la base de données de Magento.<br />
+SQLSTATE[HY000] [1698] Access denied for user 'root'@'localhost'<br />
+Veuillez lire la <a href="https://wordpress.org/plugins/fg-magento-to-woocommerce/faq/" target="_blank">FAQ pour la solution</a>.
+=== END test_database 2019-06-03 11:25:33 ===
+
+=== START import 2019-06-03 11:26:50 ===
+[ERROR] Impossible de se connecter à la base de données de Magento. Merci de vérifier vos paramètres. Et soyez certains que le serveur WordPress ait accès à la base de données de Magento.<br />
+SQLSTATE[HY000] [1698] Access denied for user 'root'@'localhost'<br />
+Veuillez lire la <a href="https://wordpress.org/plugins/fg-magento-to-woocommerce/faq/" target="_blank">FAQ pour la solution</a>.
+=== END import 2019-06-03 11:26:50 ===
+
+=== START import 2019-06-03 11:26:51 ===
+[ERROR] Impossible de se connecter à la base de données de Magento. Merci de vérifier vos paramètres. Et soyez certains que le serveur WordPress ait accès à la base de données de Magento.<br />
+SQLSTATE[HY000] [1698] Access denied for user 'root'@'localhost'<br />
+Veuillez lire la <a href="https://wordpress.org/plugins/fg-magento-to-woocommerce/faq/" target="_blank">FAQ pour la solution</a>.
+=== END import 2019-06-03 11:26:51 ===
+
+=== START import 2019-06-03 11:28:28 ===
+[ERROR] Impossible de se connecter à la base de données de Magento. Merci de vérifier vos paramètres. Et soyez certains que le serveur WordPress ait accès à la base de données de Magento.<br />
+SQLSTATE[HY000] [1698] Access denied for user 'root'@'localhost'<br />
+Veuillez lire la <a href="https://wordpress.org/plugins/fg-magento-to-woocommerce/faq/" target="_blank">FAQ pour la solution</a>.
+=== END import 2019-06-03 11:28:28 ===
+
+=== START import 2019-06-03 11:28:28 ===
+[ERROR] Impossible de se connecter à la base de données de Magento. Merci de vérifier vos paramètres. Et soyez certains que le serveur WordPress ait accès à la base de données de Magento.<br />
+SQLSTATE[HY000] [1698] Access denied for user 'root'@'localhost'<br />
+Veuillez lire la <a href="https://wordpress.org/plugins/fg-magento-to-woocommerce/faq/" target="_blank">FAQ pour la solution</a>.
+=== END import 2019-06-03 11:28:28 ===
+
+=== START import 2019-06-03 11:28:29 ===
+[ERROR] Impossible de se connecter à la base de données de Magento. Merci de vérifier vos paramètres. Et soyez certains que le serveur WordPress ait accès à la base de données de Magento.<br />
+SQLSTATE[HY000] [1698] Access denied for user 'root'@'localhost'<br />
+Veuillez lire la <a href="https://wordpress.org/plugins/fg-magento-to-woocommerce/faq/" target="_blank">FAQ pour la solution</a>.
+=== END import 2019-06-03 11:28:29 ===
+
+=== START test_database 2019-06-03 11:29:16 ===
+[ERROR] Impossible de se connecter à la base de données de Magento. Merci de vérifier vos paramètres. Et soyez certains que le serveur WordPress ait accès à la base de données de Magento.<br />
+SQLSTATE[HY000] [1698] Access denied for user 'root'@'localhost'<br />
+Veuillez lire la <a href="https://wordpress.org/plugins/fg-magento-to-woocommerce/faq/" target="_blank">FAQ pour la solution</a>.
+=== END test_database 2019-06-03 11:29:16 ===
+

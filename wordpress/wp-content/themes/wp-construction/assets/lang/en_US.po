@@ -1,0 +1,2291 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2018-01-19 16:44+0530\n"
+"PO-Revision-Date: 2018-01-19 16:44+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;esc_attr_e\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: 404.php\n"
+"X-Poedit-SearchPath-2: archive.php\n"
+"X-Poedit-SearchPath-3: author.php\n"
+"X-Poedit-SearchPath-4: breadcrumb.php\n"
+"X-Poedit-SearchPath-5: category.php\n"
+"X-Poedit-SearchPath-6: comments.php\n"
+"X-Poedit-SearchPath-7: default.php\n"
+"X-Poedit-SearchPath-8: footer.php\n"
+"X-Poedit-SearchPath-9: footer-1.php\n"
+"X-Poedit-SearchPath-10: footer-2.php\n"
+"X-Poedit-SearchPath-11: footer-3.php\n"
+"X-Poedit-SearchPath-12: front-page.php\n"
+"X-Poedit-SearchPath-13: functions.php\n"
+"X-Poedit-SearchPath-14: header.php\n"
+"X-Poedit-SearchPath-15: header-1.php\n"
+"X-Poedit-SearchPath-16: header-2.php\n"
+"X-Poedit-SearchPath-17: header-3.php\n"
+"X-Poedit-SearchPath-18: index.php\n"
+"X-Poedit-SearchPath-19: page.php\n"
+"X-Poedit-SearchPath-20: post-content.php\n"
+"X-Poedit-SearchPath-21: Screenshot.jpg\n"
+"X-Poedit-SearchPath-22: search.php\n"
+"X-Poedit-SearchPath-23: searchform.php\n"
+"X-Poedit-SearchPath-24: searchform1.php\n"
+"X-Poedit-SearchPath-25: searchpost.php\n"
+"X-Poedit-SearchPath-26: sidebar.php\n"
+"X-Poedit-SearchPath-27: single.php\n"
+"X-Poedit-SearchPath-28: single-project.php\n"
+"X-Poedit-SearchPath-29: single-service.php\n"
+"X-Poedit-SearchPath-30: single-team.php\n"
+"X-Poedit-SearchPath-31: style.css\n"
+"X-Poedit-SearchPath-32: switcher.php\n"
+"X-Poedit-SearchPath-33: tag.php\n"
+"X-Poedit-SearchPath-34: woocommerce.php\n"
+"X-Poedit-SearchPath-35: wpml-config.xml\n"
+
+#: 404.php:6
+msgid "404 Error - Page Not Found"
+msgstr ""
+
+#: 404.php:21
+msgid "PAGE NOT FOUND"
+msgstr ""
+
+#: 404.php:22
+msgid "The page you are looking for is not available"
+msgstr ""
+
+#: 404.php:23
+msgid "Go To Home Page"
+msgstr ""
+
+#: archive.php:8
+#, php-format
+msgid "Daily Archives: %s"
+msgstr ""
+
+#: archive.php:10
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#: archive.php:12
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#: archive.php:14
+msgid "Archives"
+msgstr ""
+
+#: author.php:6
+#, php-format
+msgid "Author Archives: %s"
+msgstr ""
+
+#: category.php:6
+#, php-format
+msgid "Category Archives: %s"
+msgstr ""
+
+#: comments.php:2
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#: comments.php:13
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:14
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:15
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:25
+msgid "Name"
+msgstr ""
+
+#: comments.php:31 core/theme-option.php:866 templates/contact-one.php:65
+#: templates/contact-second.php:53
+msgid "Email"
+msgstr ""
+
+#: comments.php:37
+msgid "Website"
+msgstr ""
+
+#: comments.php:51
+msgid "Type Your Comment Here"
+msgstr ""
+
+#: comments.php:55
+msgid "Logged in as "
+msgstr ""
+
+#: comments.php:55
+msgid " Log out?"
+msgstr ""
+
+#: comments.php:56
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: comments.php:58
+msgid "Submit"
+msgstr ""
+
+#: comments.php:63
+msgid "Leave a Comment"
+msgstr ""
+
+#: core/class-tgm-plugin-activation.php:339
+msgid "Install Required Plugins"
+msgstr ""
+
+#: core/class-tgm-plugin-activation.php:340
+msgid "Install Plugins"
+msgstr ""
+
+#: core/class-tgm-plugin-activation.php:342
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: core/class-tgm-plugin-activation.php:344
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: core/class-tgm-plugin-activation.php:345
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: core/class-tgm-plugin-activation.php:397 core/plugin-auto-install.php:129
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: core/class-tgm-plugin-activation.php:398
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: core/class-tgm-plugin-activation.php:399
+#: core/class-tgm-plugin-activation.php:3304 core/plugin-auto-install.php:130
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: core/class-tgm-plugin-activation.php:400 core/plugin-auto-install.php:131
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: core/class-tgm-plugin-activation.php:402 core/plugin-auto-install.php:133
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: core/class-tgm-plugin-activation.php:404 core/plugin-auto-install.php:135
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: core/class-tgm-plugin-activation.php:406 core/plugin-auto-install.php:137
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: core/class-tgm-plugin-activation.php:407 core/plugin-auto-install.php:138
+msgid "Dismiss this notice"
+msgstr ""
+
+#: core/class-tgm-plugin-activation.php:408 core/plugin-auto-install.php:139
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: core/class-tgm-plugin-activation.php:409 core/plugin-auto-install.php:140
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: core/class-tgm-plugin-activation.php:2106
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: core/class-tgm-plugin-activation.php:2415
+msgid "Required"
+msgstr ""
+
+#: core/class-tgm-plugin-activation.php:2418
+msgid "Recommended"
+msgstr ""
+
+#: core/class-tgm-plugin-activation.php:2434
+msgid "WordPress Repository"
+msgstr ""
+
+#: core/class-tgm-plugin-activation.php:2437
+msgid "External Source"
+msgstr ""
+
+#: core/class-tgm-plugin-activation.php:2440
+msgid "Pre-Packaged"
+msgstr ""
+
+#: core/class-tgm-plugin-activation.php:2457
+msgid "Not Installed"
+msgstr ""
+
+#: core/class-tgm-plugin-activation.php:2461
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: core/class-tgm-plugin-activation.php:2463
+msgid "Active"
+msgstr ""
+
+#: core/class-tgm-plugin-activation.php:2469
+msgid "Required Update not Available"
+msgstr ""
+
+#: core/class-tgm-plugin-activation.php:2472
+msgid "Requires Update"
+msgstr ""
+
+#: core/class-tgm-plugin-activation.php:2475
+msgid "Update recommended"
+msgstr ""
+
+#: core/class-tgm-plugin-activation.php:2632
+msgid "Installed version:"
+msgstr ""
+
+#: core/class-tgm-plugin-activation.php:2640
+msgid "Minimum required version:"
+msgstr ""
+
+#: core/class-tgm-plugin-activation.php:2652
+msgid "Available version:"
+msgstr ""
+
+#: core/class-tgm-plugin-activation.php:2689
+msgid "Plugin"
+msgstr ""
+
+#: core/class-tgm-plugin-activation.php:2690
+msgid "Source"
+msgstr ""
+
+#: core/class-tgm-plugin-activation.php:2691
+msgid "Type"
+msgstr ""
+
+#: core/class-tgm-plugin-activation.php:2695
+msgid "Version"
+msgstr ""
+
+#: core/class-tgm-plugin-activation.php:2696
+msgid "Status"
+msgstr ""
+
+#: core/class-tgm-plugin-activation.php:2745
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: core/class-tgm-plugin-activation.php:2750
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: core/class-tgm-plugin-activation.php:2756
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: core/class-tgm-plugin-activation.php:2861
+msgid "Install"
+msgstr ""
+
+#: core/class-tgm-plugin-activation.php:2867
+msgid "Update"
+msgstr ""
+
+#: core/class-tgm-plugin-activation.php:2870
+msgid "Activate"
+msgstr ""
+
+#: core/class-tgm-plugin-activation.php:2901
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: core/class-tgm-plugin-activation.php:2903
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: core/class-tgm-plugin-activation.php:2944
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: core/class-tgm-plugin-activation.php:2946
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: core/class-tgm-plugin-activation.php:3303
+msgid "Plugin activation failed."
+msgstr ""
+
+#: core/class-tgm-plugin-activation.php:3647
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: core/class-tgm-plugin-activation.php:3650
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: core/class-tgm-plugin-activation.php:3652
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: core/class-tgm-plugin-activation.php:3656
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: core/class-tgm-plugin-activation.php:3658
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: core/class-tgm-plugin-activation.php:3659
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: core/class-tgm-plugin-activation.php:3661
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: core/class-tgm-plugin-activation.php:3664
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: core/class-tgm-plugin-activation.php:3666
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: core/class-tgm-plugin-activation.php:3667
+msgid "All installations have been completed."
+msgstr ""
+
+#: core/class-tgm-plugin-activation.php:3669
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: core/construction_comment.php:10
+msgid "Reply"
+msgstr ""
+
+#: core/construction_comment.php:28
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: core/cpt.php:7 core/theme-option.php:594
+msgid "Slider"
+msgstr ""
+
+#: core/cpt.php:8 core/cpt.php:9
+msgid "Add New Slider"
+msgstr ""
+
+#: core/cpt.php:10
+msgid "Edi Slider"
+msgstr ""
+
+#: core/cpt.php:11
+msgid "New Slider"
+msgstr ""
+
+#: core/cpt.php:12
+msgid "All Sliders"
+msgstr ""
+
+#: core/cpt.php:13
+msgid "View Slider"
+msgstr ""
+
+#: core/cpt.php:14
+msgid "Search Sliders"
+msgstr ""
+
+#: core/cpt.php:15
+msgid "No Slider Found"
+msgstr ""
+
+#: core/cpt.php:16
+msgid "No Slider found in Trash"
+msgstr ""
+
+#: core/cpt.php:36
+msgid "Service"
+msgstr ""
+
+#: core/cpt.php:37 core/cpt.php:38
+msgid "Add New Service"
+msgstr ""
+
+#: core/cpt.php:39
+msgid "Edit Service"
+msgstr ""
+
+#: core/cpt.php:40
+msgid "New Service"
+msgstr ""
+
+#: core/cpt.php:41
+msgid "All Services"
+msgstr ""
+
+#: core/cpt.php:42
+msgid "View Service"
+msgstr ""
+
+#: core/cpt.php:43
+msgid "Search Services"
+msgstr ""
+
+#: core/cpt.php:44
+msgid "No Service Found"
+msgstr ""
+
+#: core/cpt.php:45
+msgid "No Service found in Trash"
+msgstr ""
+
+#: core/cpt.php:65
+msgid "Testimonial"
+msgstr ""
+
+#: core/cpt.php:66 core/cpt.php:67
+msgid "Add New Testimonial"
+msgstr ""
+
+#: core/cpt.php:68
+msgid "Edit Testimonial"
+msgstr ""
+
+#: core/cpt.php:69
+msgid "New Testimonial"
+msgstr ""
+
+#: core/cpt.php:70
+msgid "All Testimonials"
+msgstr ""
+
+#: core/cpt.php:71
+msgid "View Testimonial"
+msgstr ""
+
+#: core/cpt.php:72
+msgid "Search Testimonial"
+msgstr ""
+
+#: core/cpt.php:73
+msgid "No Testimonial Found"
+msgstr ""
+
+#: core/cpt.php:74
+msgid "No Testimonial found in Trash"
+msgstr ""
+
+#: core/cpt.php:94
+msgid "Facts"
+msgstr ""
+
+#: core/cpt.php:95 core/cpt.php:96
+msgid "Add New Fact"
+msgstr ""
+
+#: core/cpt.php:97
+msgid "Edit Fact"
+msgstr ""
+
+#: core/cpt.php:98
+msgid "New Fact"
+msgstr ""
+
+#: core/cpt.php:99
+msgid "All Facts"
+msgstr ""
+
+#: core/cpt.php:100
+msgid "View Facts"
+msgstr ""
+
+#: core/cpt.php:101
+msgid "Search Facts"
+msgstr ""
+
+#: core/cpt.php:102
+msgid "No Fact Found"
+msgstr ""
+
+#: core/cpt.php:103
+msgid "No Fact found in Trash"
+msgstr ""
+
+#: core/cpt.php:123
+msgid "Skill"
+msgstr ""
+
+#: core/cpt.php:124 core/cpt.php:125
+msgid "Add New Skill"
+msgstr ""
+
+#: core/cpt.php:126
+msgid "Edit Skill"
+msgstr ""
+
+#: core/cpt.php:127
+msgid "New Skill"
+msgstr ""
+
+#: core/cpt.php:128
+msgid "All Skills"
+msgstr ""
+
+#: core/cpt.php:129
+msgid "View Skill"
+msgstr ""
+
+#: core/cpt.php:130
+msgid "Search Skill"
+msgstr ""
+
+#: core/cpt.php:131
+msgid "No Skills Found"
+msgstr ""
+
+#: core/cpt.php:132
+msgid "No Skill found in Trash"
+msgstr ""
+
+#: core/cpt.php:152
+msgid "Team Member"
+msgstr ""
+
+#: core/cpt.php:153 core/cpt.php:154
+msgid "Add New Team Member"
+msgstr ""
+
+#: core/cpt.php:155
+msgid "Edit Team Member"
+msgstr ""
+
+#: core/cpt.php:156
+msgid "New Team Member"
+msgstr ""
+
+#: core/cpt.php:157
+msgid "All Team Members"
+msgstr ""
+
+#: core/cpt.php:158
+msgid "View Team Member"
+msgstr ""
+
+#: core/cpt.php:159
+msgid "Search Team Member"
+msgstr ""
+
+#: core/cpt.php:160
+msgid "No Team Found"
+msgstr ""
+
+#: core/cpt.php:161
+msgid "No Team Member found in Trash"
+msgstr ""
+
+#: core/cpt.php:181
+msgid "Client"
+msgstr ""
+
+#: core/cpt.php:182 core/cpt.php:183
+msgid "Add New Client"
+msgstr ""
+
+#: core/cpt.php:184
+msgid "Edit Client"
+msgstr ""
+
+#: core/cpt.php:185
+msgid "New Client"
+msgstr ""
+
+#: core/cpt.php:186
+msgid "All Client"
+msgstr ""
+
+#: core/cpt.php:187
+msgid "View Client"
+msgstr ""
+
+#: core/cpt.php:188
+msgid "Search Client"
+msgstr ""
+
+#: core/cpt.php:189
+msgid "No Client Found"
+msgstr ""
+
+#: core/cpt.php:190
+msgid "No Client found in Trash"
+msgstr ""
+
+#: core/cpt.php:211
+msgid "Project"
+msgstr ""
+
+#: core/cpt.php:212 core/cpt.php:213
+msgid "Add New Project"
+msgstr ""
+
+#: core/cpt.php:214
+msgid "Edit Project"
+msgstr ""
+
+#: core/cpt.php:215
+msgid "New Project"
+msgstr ""
+
+#: core/cpt.php:216
+msgid "All Projects"
+msgstr ""
+
+#: core/cpt.php:217
+msgid "View Project"
+msgstr ""
+
+#: core/cpt.php:218
+msgid "Search Projects"
+msgstr ""
+
+#: core/cpt.php:219
+msgid "No Project Found"
+msgstr ""
+
+#: core/cpt.php:220
+msgid "No Project found in Trash"
+msgstr ""
+
+#: core/cpt.php:240
+msgid "Project Categories"
+msgstr ""
+
+#: core/cpt.php:241
+msgid "Category"
+msgstr ""
+
+#: core/cpt.php:242
+msgid "Search Categories"
+msgstr ""
+
+#: core/cpt.php:243
+msgid "All Categories"
+msgstr ""
+
+#: core/cpt.php:244
+msgid "Parent Category"
+msgstr ""
+
+#: core/cpt.php:245
+msgid "Parent Category:"
+msgstr ""
+
+#: core/cpt.php:246
+msgid "Edit  Category"
+msgstr ""
+
+#: core/cpt.php:247
+msgid "Update Category"
+msgstr ""
+
+#: core/cpt.php:248
+msgid "Add Category"
+msgstr ""
+
+#: core/cpt.php:249
+msgid "New Category"
+msgstr ""
+
+#: core/cpt.php:250
+msgid "Categories"
+msgstr ""
+
+#: core/custom/construction_flickr.php:15
+#: core/custom/construction_flickr.php:24
+msgid "Construction Flickr widget"
+msgstr ""
+
+#: core/custom/construction_flickr.php:16
+msgid "Displays your latest Flickr photos."
+msgstr ""
+
+#: core/custom/construction_flickr.php:51
+msgid "Flickr PhotoStream"
+msgstr ""
+
+#: core/custom/construction_flickr.php:57
+#: core/custom/construction_follow.php:73
+#: core/custom/construction_recent_post.php:74
+msgid "Title:"
+msgstr ""
+
+#: core/custom/construction_flickr.php:61
+msgid ""
+"Flickr ID (use <a target=\"_blank\" href=\"http://www.idgettr.com\">idGettr</"
+"a>):"
+msgstr ""
+
+#: core/custom/construction_flickr.php:65
+msgid "Number of images to display:"
+msgstr ""
+
+#: core/custom/construction_follow.php:15
+msgid "Follow And Subscribe..!!"
+msgstr ""
+
+#: core/custom/construction_follow.php:16
+msgid "Follow and share widget"
+msgstr ""
+
+#: core/custom/construction_follow.php:69
+msgid "FOLLOW & SUBSCRIBE"
+msgstr ""
+
+#: core/custom/construction_follow.php:77
+msgid "Facebook:"
+msgstr ""
+
+#: core/custom/construction_follow.php:81
+msgid "Twitter:"
+msgstr ""
+
+#: core/custom/construction_follow.php:85
+msgid "Google Plus:"
+msgstr ""
+
+#: core/custom/construction_follow.php:89
+msgid "Linkdin:"
+msgstr ""
+
+#: core/custom/construction_follow.php:93
+msgid "Youtube:"
+msgstr ""
+
+#: core/custom/construction_recent_post.php:16
+msgid "Construction Recent Posts With Category"
+msgstr ""
+
+#: core/custom/construction_recent_post.php:17
+msgid "To Display Recent Posts by Category on your sites"
+msgstr ""
+
+#: core/custom/construction_recent_post.php:69
+msgid "Recent Post"
+msgstr ""
+
+#: core/custom/construction_recent_post.php:78
+msgid "Number of pages to show:"
+msgstr ""
+
+#: core/custom/construction_recent_post.php:82
+msgid "Select Category:"
+msgstr ""
+
+#: core/metabox.php:5 core/theme-option.php:587
+msgid "Slider Options"
+msgstr ""
+
+#: core/metabox.php:6
+msgid "Team Members Options"
+msgstr ""
+
+#: core/metabox.php:7 core/theme-option.php:890
+msgid "Service Options"
+msgstr ""
+
+#: core/metabox.php:8
+msgid "Skill Options"
+msgstr ""
+
+#: core/metabox.php:9 core/theme-option.php:1195
+msgid "Fact Options"
+msgstr ""
+
+#: core/metabox.php:10
+msgid "Project Gallery"
+msgstr ""
+
+#: core/metabox.php:11
+msgid "Service Gallery"
+msgstr ""
+
+#: core/metabox.php:12 core/theme-option.php:1420
+msgid "Client Options"
+msgstr ""
+
+#: core/metabox.php:13 core/theme-option.php:1119
+msgid "Testimonial Options"
+msgstr ""
+
+#: core/metabox.php:14 core/metabox.php:15
+msgid "Additional Options"
+msgstr ""
+
+#: core/metabox.php:56
+msgid "Slider Description"
+msgstr ""
+
+#: core/metabox.php:58
+msgid "Slider Button"
+msgstr ""
+
+#: core/metabox.php:59 core/metabox.php:106
+msgid "Open link in a new window/tab"
+msgstr ""
+
+#: core/metabox.php:60
+msgid "Slider Button Custom Link"
+msgstr ""
+
+#: core/metabox.php:62
+msgid "Slider Button Text"
+msgstr ""
+
+#: core/metabox.php:101
+msgid "Service font-awesome Icons"
+msgstr ""
+
+#: core/metabox.php:105
+msgid "Service Button Text"
+msgstr ""
+
+#: core/metabox.php:144
+msgid "Skill font-awesome Icons"
+msgstr ""
+
+#: core/metabox.php:148
+msgid "Skill Value"
+msgstr ""
+
+#: core/metabox.php:186
+msgid "Fact font-awesome Icons"
+msgstr ""
+
+#: core/metabox.php:190
+msgid "Fact Value"
+msgstr ""
+
+#: core/metabox.php:227
+msgid "Client Link"
+msgstr ""
+
+#: core/metabox.php:284
+msgid "Team Member Designation :-"
+msgstr ""
+
+#: core/metabox.php:286
+msgid "About Team Member :-"
+msgstr ""
+
+#: core/metabox.php:288
+msgid "Certification :-"
+msgstr ""
+
+#: core/metabox.php:290
+msgid "Address :-"
+msgstr ""
+
+#: core/metabox.php:292
+msgid "Phone No. :-"
+msgstr ""
+
+#: core/metabox.php:296
+msgid "Email :-"
+msgstr ""
+
+#: core/metabox.php:298
+msgid "Facebook :-"
+msgstr ""
+
+#: core/metabox.php:300
+msgid "Twitter :-"
+msgstr ""
+
+#: core/metabox.php:302
+msgid "Linkdin :-"
+msgstr ""
+
+#: core/metabox.php:304
+msgid "Instagram :-"
+msgstr ""
+
+#: core/metabox.php:343
+msgid "Designation :-"
+msgstr ""
+
+#: core/metabox.php:345
+msgid "Testimonial Description :-"
+msgstr ""
+
+#: core/metabox.php:403
+msgid "Layout | Sidebar"
+msgstr ""
+
+#: core/metabox.php:488
+msgid "Add New Images"
+msgstr ""
+
+#: core/theme-option.php:95 core/theme-option.php:96
+msgid "Theme Options"
+msgstr ""
+
+#: core/theme-option.php:223 core/theme-option.php:225
+msgid "Documentation"
+msgstr ""
+
+#: core/theme-option.php:223 core/theme-option.php:225
+msgid "Demo"
+msgstr ""
+
+#: core/theme-option.php:223 core/theme-option.php:225
+msgid "Support"
+msgstr ""
+
+#: core/theme-option.php:262
+msgid "General Options"
+msgstr ""
+
+#: core/theme-option.php:264 core/theme-option.php:589
+#: core/theme-option.php:622 core/theme-option.php:689
+#: core/theme-option.php:792 core/theme-option.php:892
+#: core/theme-option.php:959 core/theme-option.php:1058
+#: core/theme-option.php:1121 core/theme-option.php:1197
+#: core/theme-option.php:1259 core/theme-option.php:1322
+#: core/theme-option.php:1422 core/theme-option.php:1486
+#: core/theme-option.php:1551 core/theme-option.php:1685
+#: core/theme-option.php:1810 core/theme-option.php:1850
+msgid "These are really basic fields!"
+msgstr ""
+
+#: core/theme-option.php:269
+msgid "General settings"
+msgstr ""
+
+#: core/theme-option.php:277
+msgid "Home-Page or Custom Page"
+msgstr ""
+
+#: core/theme-option.php:278
+msgid "Enable Custom Static Front-Page <a href=\""
+msgstr ""
+
+#: core/theme-option.php:285
+msgid "Your Site Logo"
+msgstr ""
+
+#: core/theme-option.php:288
+msgid "Upload your site logo"
+msgstr ""
+
+#: core/theme-option.php:296
+msgid "Logo Dimensions (Width/Height)"
+msgstr ""
+
+#: core/theme-option.php:297
+msgid "Logo width and height, height, and/or unit."
+msgstr ""
+
+#: core/theme-option.php:298
+msgid "You can manage site logo Width, Height, or Units from here."
+msgstr ""
+
+#: core/theme-option.php:308
+msgid "Your Site Favicon"
+msgstr ""
+
+#: core/theme-option.php:311
+msgid "Upload your site Favicon"
+msgstr ""
+
+#: core/theme-option.php:318
+msgid "background image for Breadcrumb"
+msgstr ""
+
+#: core/theme-option.php:321 core/theme-option.php:717
+#: core/theme-option.php:1022 core/theme-option.php:1175
+#: core/theme-option.php:1374 core/theme-option.php:1945
+msgid "Upload background image"
+msgstr ""
+
+#: core/theme-option.php:327
+msgid "Custom CSS Editor"
+msgstr ""
+
+#: core/theme-option.php:328
+msgid "Paste your CSS code here."
+msgstr ""
+
+#: core/theme-option.php:338
+msgid "Extra"
+msgstr ""
+
+#: core/theme-option.php:346
+msgid "Google | Analytics"
+msgstr ""
+
+#: core/theme-option.php:347
+msgid "Paste your Google Analytics code here"
+msgstr ""
+
+#: core/theme-option.php:348
+msgid "You can paste your Google Analytics code here."
+msgstr ""
+
+#: core/theme-option.php:364
+msgid "SEO FIELDS"
+msgstr ""
+
+#: core/theme-option.php:370
+msgid "Use built-in fields"
+msgstr ""
+
+#: core/theme-option.php:371
+msgid "Turn it OFF if you want to use external SEO or share plugin"
+msgstr ""
+
+#: core/theme-option.php:377
+msgid "SEO | Title"
+msgstr ""
+
+#: core/theme-option.php:378
+msgid "Type Home title for seo fields"
+msgstr ""
+
+#: core/theme-option.php:386
+msgid "Meta | Description"
+msgstr ""
+
+#: core/theme-option.php:387 core/theme-option.php:396
+msgid "May be overridden for single posts, pages, portfolio"
+msgstr ""
+
+#: core/theme-option.php:395
+msgid "Meta | Keyword"
+msgstr ""
+
+#: core/theme-option.php:405
+msgid "Custom Js"
+msgstr ""
+
+#: core/theme-option.php:413
+msgid "JS Code | Header"
+msgstr ""
+
+#: core/theme-option.php:414
+msgid "Paste your JS code in header here."
+msgstr ""
+
+#: core/theme-option.php:423
+msgid "JS Code | Footer"
+msgstr ""
+
+#: core/theme-option.php:424
+msgid "Paste your JS code in footer here."
+msgstr ""
+
+#: core/theme-option.php:434
+msgid "Layout"
+msgstr ""
+
+#: core/theme-option.php:442
+msgid "Frontend Style Switcher"
+msgstr ""
+
+#: core/theme-option.php:443
+msgid "Enable Style switcher"
+msgstr ""
+
+#: core/theme-option.php:449
+msgid "Main Layout"
+msgstr ""
+
+#: core/theme-option.php:450
+msgid "Select site layout ( Wide or Boxed)."
+msgstr ""
+
+#: core/theme-option.php:466
+msgid "Header Position"
+msgstr ""
+
+#: core/theme-option.php:467
+msgid "With the Help of Fixed Header you can show site header"
+msgstr ""
+
+#: core/theme-option.php:478
+msgid "Custom Color Schemes"
+msgstr ""
+
+#: core/theme-option.php:479
+msgid "Pick a background color for the theme (default: #000)."
+msgstr ""
+
+#: core/theme-option.php:488
+msgid "Default Background Image"
+msgstr ""
+
+#: core/theme-option.php:489
+msgid "Select Image for Background."
+msgstr ""
+
+#: core/theme-option.php:578
+msgid "Custom Background"
+msgstr ""
+
+#: core/theme-option.php:579
+msgid "Upload Background image"
+msgstr ""
+
+#: core/theme-option.php:602
+msgid "Select Slider Layout"
+msgstr ""
+
+#: core/theme-option.php:603
+msgid "Select Slider layouts"
+msgstr ""
+
+#: core/theme-option.php:604
+msgid "You can change your Slider from here."
+msgstr ""
+
+#: core/theme-option.php:620
+msgid "Header Options"
+msgstr ""
+
+#: core/theme-option.php:627
+msgid "Header settings"
+msgstr ""
+
+#: core/theme-option.php:635
+msgid "Select Header Layout"
+msgstr ""
+
+#: core/theme-option.php:636
+msgid "Select header layouts"
+msgstr ""
+
+#: core/theme-option.php:637 core/theme-option.php:1337
+#: core/theme-option.php:1437
+msgid "You can change your header from here."
+msgstr ""
+
+#: core/theme-option.php:650
+msgid "Social Icons"
+msgstr ""
+
+#: core/theme-option.php:651
+msgid "Enable or Disable social Icons on header"
+msgstr ""
+
+#: core/theme-option.php:657
+msgid "Search Bar"
+msgstr ""
+
+#: core/theme-option.php:658
+msgid "Enable or Disable Search Bar on header"
+msgstr ""
+
+#: core/theme-option.php:664
+msgid "Your Phone Number"
+msgstr ""
+
+#: core/theme-option.php:665
+msgid "Enable or Disable Phone Number on header"
+msgstr ""
+
+#: core/theme-option.php:671
+msgid "Your Email"
+msgstr ""
+
+#: core/theme-option.php:672
+msgid "Enable or Disable Your Email on header"
+msgstr ""
+
+#: core/theme-option.php:678
+msgid "Your Address"
+msgstr ""
+
+#: core/theme-option.php:679
+msgid "Enable or Disable Your Address on header"
+msgstr ""
+
+#: core/theme-option.php:687
+msgid "About Options"
+msgstr ""
+
+#: core/theme-option.php:694
+msgid "About Section settings"
+msgstr ""
+
+#: core/theme-option.php:702
+msgid "About Section Content (Home-Page)"
+msgstr ""
+
+#: core/theme-option.php:703
+msgid "Here you can build you about section or just paste your html."
+msgstr ""
+
+#: core/theme-option.php:714
+msgid "background image for about section"
+msgstr ""
+
+#: core/theme-option.php:723
+msgid "About Template Options"
+msgstr ""
+
+#: core/theme-option.php:729
+msgid "About Template Page Title"
+msgstr ""
+
+#: core/theme-option.php:730 core/theme-option.php:806
+#: core/theme-option.php:922 core/theme-option.php:989
+#: core/theme-option.php:1035 core/theme-option.php:1086
+#: core/theme-option.php:1152 core/theme-option.php:1225
+#: core/theme-option.php:1287 core/theme-option.php:1351
+#: core/theme-option.php:1399 core/theme-option.php:1451
+msgid "Title for it."
+msgstr ""
+
+#: core/theme-option.php:731
+msgid "Enter Title for about template page."
+msgstr ""
+
+#: core/theme-option.php:739
+msgid "About Template Page Description"
+msgstr ""
+
+#: core/theme-option.php:740 core/theme-option.php:816
+#: core/theme-option.php:932 core/theme-option.php:999
+#: core/theme-option.php:1045 core/theme-option.php:1096
+#: core/theme-option.php:1162 core/theme-option.php:1235
+#: core/theme-option.php:1297 core/theme-option.php:1361
+#: core/theme-option.php:1409 core/theme-option.php:1461
+msgid "Description for it."
+msgstr ""
+
+#: core/theme-option.php:741
+msgid "Enter litle bit description for your about page."
+msgstr ""
+
+#: core/theme-option.php:749
+msgid "Address text for About Template Page"
+msgstr ""
+
+#: core/theme-option.php:756
+msgid "Phone text for About Template Page"
+msgstr ""
+
+#: core/theme-option.php:763
+msgid "Email text for About Template Page"
+msgstr ""
+
+#: core/theme-option.php:790
+msgid "Contact Options"
+msgstr ""
+
+#: core/theme-option.php:797
+msgid "Contact settings"
+msgstr ""
+
+#: core/theme-option.php:805
+msgid "Contact Page Title"
+msgstr ""
+
+#: core/theme-option.php:807
+msgid "Enter Title for contact page."
+msgstr ""
+
+#: core/theme-option.php:815
+msgid "Contact Page Description"
+msgstr ""
+
+#: core/theme-option.php:817
+msgid "Enter litle bit description for your contact page."
+msgstr ""
+
+#: core/theme-option.php:825
+msgid "Google Map Url"
+msgstr ""
+
+#: core/theme-option.php:826
+msgid "your map url."
+msgstr ""
+
+#: core/theme-option.php:827
+msgid "Enter your google map address embedded URL here."
+msgstr ""
+
+#: core/theme-option.php:836
+msgid "Phone or Mobile number"
+msgstr ""
+
+#: core/theme-option.php:837
+msgid "Your phone no. for contact."
+msgstr ""
+
+#: core/theme-option.php:838
+msgid "Enter your phone no. or mobile no. here."
+msgstr ""
+
+#: core/theme-option.php:847
+msgid "Address"
+msgstr ""
+
+#: core/theme-option.php:848
+msgid "Enter your Address here"
+msgstr ""
+
+#: core/theme-option.php:849
+msgid "You can write your address here."
+msgstr ""
+
+#: core/theme-option.php:867
+msgid "Your email."
+msgstr ""
+
+#: core/theme-option.php:868
+msgid "Enter your email for contact."
+msgstr ""
+
+#: core/theme-option.php:877
+msgid "Contact Form Button Text"
+msgstr ""
+
+#: core/theme-option.php:878
+msgid "Buttom Text."
+msgstr ""
+
+#: core/theme-option.php:879
+msgid "Enter Text for contact form button."
+msgstr ""
+
+#: core/theme-option.php:897
+msgid "Service settings"
+msgstr ""
+
+#: core/theme-option.php:905
+msgid "Select Service Layout"
+msgstr ""
+
+#: core/theme-option.php:906
+msgid "Select Service layouts"
+msgstr ""
+
+#: core/theme-option.php:907
+msgid "You can change your Service from here."
+msgstr ""
+
+#: core/theme-option.php:921
+msgid "Service Section Title"
+msgstr ""
+
+#: core/theme-option.php:923
+msgid "Enter Title for service section."
+msgstr ""
+
+#: core/theme-option.php:931
+msgid "service Section Description"
+msgstr ""
+
+#: core/theme-option.php:933
+msgid "Enter litle bit description for your Service section."
+msgstr ""
+
+#: core/theme-option.php:941
+msgid "No. of Services"
+msgstr ""
+
+#: core/theme-option.php:942
+msgid "You can manage no. of services from here."
+msgstr ""
+
+#: core/theme-option.php:943
+msgid "Number of services. Min: 1, max: 20,  default value: 6"
+msgstr ""
+
+#: core/theme-option.php:957
+msgid "Project Options"
+msgstr ""
+
+#: core/theme-option.php:964
+msgid "Project settings"
+msgstr ""
+
+#: core/theme-option.php:972
+msgid "Select Project Section Layout"
+msgstr ""
+
+#: core/theme-option.php:973
+msgid "Select Project Section layouts"
+msgstr ""
+
+#: core/theme-option.php:974
+msgid "You can change your Project from here."
+msgstr ""
+
+#: core/theme-option.php:988
+msgid "Project Section Title"
+msgstr ""
+
+#: core/theme-option.php:990
+msgid "Enter Title for project section."
+msgstr ""
+
+#: core/theme-option.php:998
+msgid "Project Section Description"
+msgstr ""
+
+#: core/theme-option.php:1000
+msgid "Enter litle bit description for your Project section."
+msgstr ""
+
+#: core/theme-option.php:1009
+msgid "Multi Select Category Option"
+msgstr ""
+
+#: core/theme-option.php:1010
+msgid "select categories for project section"
+msgstr ""
+
+#: core/theme-option.php:1011
+msgid "You can select multiple categories for project section to deisplay."
+msgstr ""
+
+#: core/theme-option.php:1019
+msgid "background image for Project section"
+msgstr ""
+
+#: core/theme-option.php:1028
+msgid "project Template Options"
+msgstr ""
+
+#: core/theme-option.php:1034
+msgid "Project Template Title"
+msgstr ""
+
+#: core/theme-option.php:1036
+msgid "Enter Title for project Template."
+msgstr ""
+
+#: core/theme-option.php:1044
+msgid "Project Template Description"
+msgstr ""
+
+#: core/theme-option.php:1046
+msgid "Enter litle bit description for your Project Template."
+msgstr ""
+
+#: core/theme-option.php:1056
+msgid "Blog Options"
+msgstr ""
+
+#: core/theme-option.php:1063
+msgid "Blog settings"
+msgstr ""
+
+#: core/theme-option.php:1071
+msgid "Select Blog Section Layout"
+msgstr ""
+
+#: core/theme-option.php:1072
+msgid "Select Blog Section layouts"
+msgstr ""
+
+#: core/theme-option.php:1073
+msgid "You can change your Blog from here."
+msgstr ""
+
+#: core/theme-option.php:1085
+msgid "Blog Section Title"
+msgstr ""
+
+#: core/theme-option.php:1087
+msgid "Enter Title for blog section."
+msgstr ""
+
+#: core/theme-option.php:1095
+msgid "Blog Section Description"
+msgstr ""
+
+#: core/theme-option.php:1097
+msgid "Enter litle bit description for your Blog section."
+msgstr ""
+
+#: core/theme-option.php:1105
+msgid "No. of Blogs"
+msgstr ""
+
+#: core/theme-option.php:1106
+msgid "You can manage no. of blog from here."
+msgstr ""
+
+#: core/theme-option.php:1107
+msgid "Number of Blogs. Min: 1, max: 20,  default value: 6"
+msgstr ""
+
+#: core/theme-option.php:1126
+msgid "Testimonial settings"
+msgstr ""
+
+#: core/theme-option.php:1134
+msgid "Select Testimonial Section Layout"
+msgstr ""
+
+#: core/theme-option.php:1135
+msgid "Select Testimonial Section layouts"
+msgstr ""
+
+#: core/theme-option.php:1136
+msgid "You can change your Testimonial from here."
+msgstr ""
+
+#: core/theme-option.php:1151
+msgid "Testimonial Section Title"
+msgstr ""
+
+#: core/theme-option.php:1153
+msgid "Enter Title for Testimonial section."
+msgstr ""
+
+#: core/theme-option.php:1161
+msgid "Testimonial Section Description"
+msgstr ""
+
+#: core/theme-option.php:1163
+msgid "Enter litle bit description for your Testimonial section."
+msgstr ""
+
+#: core/theme-option.php:1172
+msgid "background image for Testimonial section"
+msgstr ""
+
+#: core/theme-option.php:1202
+msgid "Fact settings"
+msgstr ""
+
+#: core/theme-option.php:1210
+msgid "Select Fact Section Layout"
+msgstr ""
+
+#: core/theme-option.php:1211
+msgid "Select Fact Section layouts"
+msgstr ""
+
+#: core/theme-option.php:1212 core/theme-option.php:1274
+msgid "You can change your Fact from here."
+msgstr ""
+
+#: core/theme-option.php:1224
+msgid "Fact Section Title"
+msgstr ""
+
+#: core/theme-option.php:1226 core/theme-option.php:1288
+msgid "Enter Title for Fact section."
+msgstr ""
+
+#: core/theme-option.php:1234
+msgid "Fact Section Description"
+msgstr ""
+
+#: core/theme-option.php:1236
+msgid "Enter litle bit description for your Fact section."
+msgstr ""
+
+#: core/theme-option.php:1257
+msgid "Skills Options"
+msgstr ""
+
+#: core/theme-option.php:1264
+msgid "Skill settings"
+msgstr ""
+
+#: core/theme-option.php:1272
+msgid "Select Skill Section Layout"
+msgstr ""
+
+#: core/theme-option.php:1273
+msgid "Select Skill Section layouts"
+msgstr ""
+
+#: core/theme-option.php:1286
+msgid "Skill Section Title"
+msgstr ""
+
+#: core/theme-option.php:1296
+msgid "Skill Section Description"
+msgstr ""
+
+#: core/theme-option.php:1298
+msgid "Enter litle bit description for your skill section."
+msgstr ""
+
+#: core/theme-option.php:1320
+msgid "Team Options"
+msgstr ""
+
+#: core/theme-option.php:1327
+msgid "Team settings"
+msgstr ""
+
+#: core/theme-option.php:1335
+msgid "Select Team Section Layout"
+msgstr ""
+
+#: core/theme-option.php:1336
+msgid "Select Team Section layouts"
+msgstr ""
+
+#: core/theme-option.php:1350
+msgid "Team Section Title"
+msgstr ""
+
+#: core/theme-option.php:1352
+msgid "Enter Title for Team section."
+msgstr ""
+
+#: core/theme-option.php:1360 core/theme-option.php:1460
+msgid "FaTeamct Section Description"
+msgstr ""
+
+#: core/theme-option.php:1362
+msgid "Enter litle bit description for your Team section."
+msgstr ""
+
+#: core/theme-option.php:1371
+msgid "background image for Team section"
+msgstr ""
+
+#: core/theme-option.php:1380
+msgid "No. of Team"
+msgstr ""
+
+#: core/theme-option.php:1381
+msgid "You can manage no. of Fact from here."
+msgstr ""
+
+#: core/theme-option.php:1382
+msgid "Number of Team. Min: 1, max: 20,  default value: 6"
+msgstr ""
+
+#: core/theme-option.php:1392
+msgid "Team Template Options"
+msgstr ""
+
+#: core/theme-option.php:1398
+msgid "Team Template Title"
+msgstr ""
+
+#: core/theme-option.php:1400
+msgid "Enter Title for team Template."
+msgstr ""
+
+#: core/theme-option.php:1408
+msgid "Team Template Description"
+msgstr ""
+
+#: core/theme-option.php:1410
+msgid "Enter litle bit description for your team Template."
+msgstr ""
+
+#: core/theme-option.php:1427
+msgid "Client Section settings"
+msgstr ""
+
+#: core/theme-option.php:1435
+msgid "Select Client Section Layout"
+msgstr ""
+
+#: core/theme-option.php:1436
+msgid "Select Client Section layouts"
+msgstr ""
+
+#: core/theme-option.php:1450
+msgid "Client Section Title"
+msgstr ""
+
+#: core/theme-option.php:1452
+msgid "Enter Title for Client section."
+msgstr ""
+
+#: core/theme-option.php:1462
+msgid "Enter litle bit description for your Client section."
+msgstr ""
+
+#: core/theme-option.php:1484
+msgid "Call Out Options"
+msgstr ""
+
+#: core/theme-option.php:1491
+msgid "Call Out Content"
+msgstr ""
+
+#: core/theme-option.php:1499
+msgid "Call Out Text"
+msgstr ""
+
+#: core/theme-option.php:1500
+msgid "Type call out text"
+msgstr ""
+
+#: core/theme-option.php:1508
+msgid "Call Out Description"
+msgstr ""
+
+#: core/theme-option.php:1509
+msgid "Type call out description"
+msgstr ""
+
+#: core/theme-option.php:1518
+msgid "Social Icon For Call Out"
+msgstr ""
+
+#: core/theme-option.php:1519
+msgid "select social icon for your Call Out area from here"
+msgstr ""
+
+#: core/theme-option.php:1520 core/theme-option.php:1701
+#: core/theme-option.php:1719 core/theme-option.php:1737
+#: core/theme-option.php:1755 core/theme-option.php:1773
+#: core/theme-option.php:1791 core/theme-option.php:1935
+msgid "Here's a list of all the elusive icons by name and icon."
+msgstr ""
+
+#: core/theme-option.php:1526
+msgid "Text For Button"
+msgstr ""
+
+#: core/theme-option.php:1527
+msgid "Type text for call out button"
+msgstr ""
+
+#: core/theme-option.php:1535
+msgid "Call Out Button URL"
+msgstr ""
+
+#: core/theme-option.php:1536
+msgid "Type Custom URL to redirect on this url"
+msgstr ""
+
+#: core/theme-option.php:1549
+msgid "Fonts"
+msgstr ""
+
+#: core/theme-option.php:1556
+msgid "Fonts settings"
+msgstr ""
+
+#: core/theme-option.php:1564
+msgid "Section Heading & Description"
+msgstr ""
+
+#: core/theme-option.php:1570
+msgid "Home section heading Title & Description."
+msgstr ""
+
+#: core/theme-option.php:1583
+msgid "Menu Font option"
+msgstr ""
+
+#: core/theme-option.php:1589
+msgid "You can change Menu fonts from here."
+msgstr ""
+
+#: core/theme-option.php:1602
+msgid "Content"
+msgstr ""
+
+#: core/theme-option.php:1608
+msgid "All theme Post type texts except headings and menu(Content Only)"
+msgstr ""
+
+#: core/theme-option.php:1621
+msgid "Page Title ( In Breadcrumb )"
+msgstr ""
+
+#: core/theme-option.php:1628
+msgid "All theme Post and Page Title Font( In Breadcrumb )"
+msgstr ""
+
+#: core/theme-option.php:1641
+msgid "Single Page/Post Content"
+msgstr ""
+
+#: core/theme-option.php:1648
+msgid "Sigle page and post content font options"
+msgstr ""
+
+#: core/theme-option.php:1661
+msgid "Post Title"
+msgstr ""
+
+#: core/theme-option.php:1668
+msgid "Post Title like:- (service,Blog,Team,Fats etc)"
+msgstr ""
+
+#: core/theme-option.php:1683
+msgid "Social Profile"
+msgstr ""
+
+#: core/theme-option.php:1690
+msgid "Social Icons settings"
+msgstr ""
+
+#: core/theme-option.php:1699
+msgid "Social Icon One"
+msgstr ""
+
+#: core/theme-option.php:1700 core/theme-option.php:1718
+#: core/theme-option.php:1736 core/theme-option.php:1754
+#: core/theme-option.php:1772 core/theme-option.php:1790
+msgid "select social icon for your site from here"
+msgstr ""
+
+#: core/theme-option.php:1706
+msgid "Social Icon One - URl"
+msgstr ""
+
+#: core/theme-option.php:1707 core/theme-option.php:1725
+#: core/theme-option.php:1743 core/theme-option.php:1761
+#: core/theme-option.php:1779 core/theme-option.php:1797
+msgid "Enter your profile URL here"
+msgstr ""
+
+#: core/theme-option.php:1717
+msgid "Social Icon Two"
+msgstr ""
+
+#: core/theme-option.php:1724
+msgid "Social Icon Two - URl"
+msgstr ""
+
+#: core/theme-option.php:1735
+msgid "Social Icon Three"
+msgstr ""
+
+#: core/theme-option.php:1742
+msgid "Social Icon Three - URl"
+msgstr ""
+
+#: core/theme-option.php:1753
+msgid "Social Icon Four"
+msgstr ""
+
+#: core/theme-option.php:1760
+msgid "Social Icon Four - URl"
+msgstr ""
+
+#: core/theme-option.php:1771
+msgid "Social Icon Five"
+msgstr ""
+
+#: core/theme-option.php:1778
+msgid "Social Icon Five - URl"
+msgstr ""
+
+#: core/theme-option.php:1789
+msgid "Social Icon Six"
+msgstr ""
+
+#: core/theme-option.php:1796
+msgid "Social Icon Six - URl"
+msgstr ""
+
+#: core/theme-option.php:1808
+msgid "Home-page Customization"
+msgstr ""
+
+#: core/theme-option.php:1815
+msgid "Home-Page settings"
+msgstr ""
+
+#: core/theme-option.php:1848
+msgid "Footer Options"
+msgstr ""
+
+#: core/theme-option.php:1855
+msgid "Footer settings"
+msgstr ""
+
+#: core/theme-option.php:1863
+msgid "Select Footer Layout"
+msgstr ""
+
+#: core/theme-option.php:1864
+msgid "Select Footer layouts"
+msgstr ""
+
+#: core/theme-option.php:1865
+msgid "You can change your Footer from here."
+msgstr ""
+
+#: core/theme-option.php:1878
+msgid "Footer Widget Area"
+msgstr ""
+
+#: core/theme-option.php:1879
+msgid "Enable or Disable Footer widget area by this switch"
+msgstr ""
+
+#: core/theme-option.php:1885
+msgid "Social Icon in Footer"
+msgstr ""
+
+#: core/theme-option.php:1886
+msgid "Enable or Disable Social Icon in Footer by this switch"
+msgstr ""
+
+#: core/theme-option.php:1892
+msgid "Footer customization"
+msgstr ""
+
+#: core/theme-option.php:1893
+msgid "Enter your footer customization text"
+msgstr ""
+
+#: core/theme-option.php:1902
+msgid "Developed by text"
+msgstr ""
+
+#: core/theme-option.php:1903
+msgid "Enter developed by text"
+msgstr ""
+
+#: core/theme-option.php:1912
+msgid "Developed by link text"
+msgstr ""
+
+#: core/theme-option.php:1913
+msgid "Enter developed by link text"
+msgstr ""
+
+#: core/theme-option.php:1922
+msgid "Developed by link"
+msgstr ""
+
+#: core/theme-option.php:1923
+msgid "Enter developed by link"
+msgstr ""
+
+#: core/theme-option.php:1933
+msgid "Footer Icon For Footer Copyright text"
+msgstr ""
+
+#: core/theme-option.php:1934
+msgid "select footer icon for your Copyright text from here"
+msgstr ""
+
+#: core/theme-option.php:1942
+msgid "background image for Footer Template 3 section"
+msgstr ""
+
+#: core/theme-option.php:2038
+msgid "Section via hook"
+msgstr ""
+
+#: core/theme-option.php:2039
+msgid ""
+"<p class=\"description\">This is a section created by adding a filter to the "
+"sections array. Can be used by child themes to add/remove sections from the "
+"options.</p>"
+msgstr ""
+
+#: functions.php:66
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:83
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:85
+msgid "The primary widget area"
+msgstr ""
+
+#: functions.php:92
+msgid "Footer Widget Area One"
+msgstr ""
+
+#: functions.php:94 functions.php:111
+msgid "footer widget area"
+msgstr ""
+
+#: functions.php:101
+msgid "Footer Widget Area Two"
+msgstr ""
+
+#: functions.php:109
+msgid "Footer Widget Area Three"
+msgstr ""
+
+#: header-3.php:72
+msgid "Toggle navigation"
+msgstr ""
+
+#: home-sections/home-blog2.php:23 home-sections/home-slider3.php:15
+#: post-content.php:39 searchpost.php:39
+msgid "Read More"
+msgstr ""
+
+#: home-sections/home-projects1.php:24 home-sections/home-projects2.php:19
+msgid "All"
+msgstr ""
+
+#: home-sections/home-slider1.php:60 home-sections/home-slider2.php:101
+#: home-sections/home-testimonial4.php:37
+#: home-sections/home-testimonial5.php:41
+msgid "Previous"
+msgstr ""
+
+#: home-sections/home-slider1.php:61 home-sections/home-slider2.php:100
+#: home-sections/home-testimonial4.php:41
+#: home-sections/home-testimonial5.php:45
+msgid "Next"
+msgstr ""
+
+#: js/lightbox-plus-jquery.min.js:14
+msgid "<iframe frameborder='0' width='0' height='0'/>"
+msgstr ""
+
+#: js/lightbox-plus-jquery.min.js:26
+msgid "<script>"
+msgstr ""
+
+#: js/lightbox-plus-jquery.min.js:26
+msgid "<div>"
+msgstr ""
+
+#: post-content.php:16 searchpost.php:15 single.php:30
+msgid "Comments"
+msgstr ""
+
+#: post-content.php:27 searchpost.php:26 single.php:41
+msgid "TAGS:"
+msgstr ""
+
+#: post-content.php:34 searchpost.php:33 single.php:48
+msgid "CATEGORIES:"
+msgstr ""
+
+#: search.php:7
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: search.php:49
+msgid "No Content Found"
+msgstr ""
+
+#: sidebar.php:8
+msgid "SideBar is Empty, Put widgets from widgets option"
+msgstr ""
+
+#: single-project.php:70
+msgid "OTHER PROJECTS"
+msgstr ""
+
+#: single-service.php:67
+msgid "PROJECT BY US"
+msgstr ""
+
+#: single-team.php:34
+msgid "About"
+msgstr ""
+
+#: single-team.php:37
+msgid "Certificate"
+msgstr ""
+
+#: single-team.php:39
+msgid "Address:"
+msgstr ""
+
+#: single-team.php:40
+msgid "Phone:"
+msgstr ""
+
+#: single-team.php:41
+msgid "Email:"
+msgstr ""
+
+#: single-team.php:59
+msgid "OTHER MEMBERS"
+msgstr ""
+
+#: single.php:59
+msgid "Previous Article"
+msgstr ""
+
+#: single.php:62
+msgid "Next Article"
+msgstr ""
+
+#: single.php:70
+msgid "SHARE"
+msgstr ""
+
+#: single.php:84
+msgid "LATEST POSTS"
+msgstr ""
+
+#: tag.php:6
+#, php-format
+msgid "Tag Archives: %s"
+msgstr ""
+
+#: templates/contact-one.php:50
+msgid "User Name"
+msgstr ""
+
+#: templates/contact-one.php:52
+msgid "Fill your name"
+msgstr ""
+
+#: templates/contact-one.php:58 templates/contact-second.php:58
+msgid "Subject"
+msgstr ""
+
+#: templates/contact-one.php:67 templates/contact-second.php:55
+msgid "Fill your email"
+msgstr ""
+
+#: templates/contact-one.php:73
+msgid "Phone Number"
+msgstr ""
+
+#: templates/contact-one.php:75 templates/contact-second.php:50
+msgid "Fill your phone no"
+msgstr ""
+
+#: templates/contact-one.php:81 templates/contact-second.php:63
+msgid "Message"
+msgstr ""
+
+#: templates/contact-one.php:83 templates/contact-second.php:65
+msgid "Fill your Text massage"
+msgstr ""
+
+#: templates/contact-second.php:43
+msgid "First Name"
+msgstr ""
+
+#: templates/contact-second.php:45
+msgid "Fill your First Name"
+msgstr ""
+
+#: templates/contact-second.php:48
+msgid "Phone"
+msgstr ""
+
+#: templates/contact-second.php:60
+msgid "Fill your Subject"
+msgstr ""
+
+#: theme-update-checker.php:80
+#, php-format
+msgid "Weblizar WordPress Theme ( %s ) "
+msgstr ""
+
+#: theme-update-checker.php:91
+msgid " - "
+msgstr ""
+
+#: theme-update-checker.php:94
+msgid "Weblizar Theme Update Process"
+msgstr ""
+
+#: theme-update-checker.php:95
+msgid "You can see the manual Update steps at our weblizar site"
+msgstr ""
+
+#: theme-update-checker.php:96
+msgid ": <a href=\""
+msgstr ""
+
+#: theme-update-checker.php:97
+msgid "Weblizar WordPress Theme "
+msgstr ""
+
+#: theme-update-checker.php:100
+msgid ""
+"1. First, Please download the new version of Weblizar Premium Theme Package "
+"from your weblizar account. Then Login with your user name and Password."
+msgstr ""
+
+#: theme-update-checker.php:103
+msgid "Login For Download New Version"
+msgstr ""
+
+#: theme-update-checker.php:106
+msgid "After Login you find this page"
+msgstr ""
+
+#: theme-update-checker.php:108
+msgid ""
+"2. Upload the downloaded theme package in your site ( server ) using "
+"wordpress Theme Uploader ( Go to Admin Dashboard =&gt; Appearance =&gt; "
+"Themes=&gt; Add New =&gt; Upload Theme =&gt; Choose File and click on "
+"install button )."
+msgstr ""
+
+#: theme-update-checker.php:109
+msgid ""
+"Otherwise you can use any FTP ( filezilla or bitwise ) and upload the Theme "
+"zip package or unzip the Theme package. After that go to Admin Dashboard "
+"=&gt; Appearance =&gt; Themes and click on active."
+msgstr ""
+
+#: theme-update-checker.php:111
+msgid "Your Weblizar pro Theme Activated Now"
+msgstr ""
+
+#: theme-update-checker.php:112
+msgid ""
+"For more details to follow the theme documentation link : <a href=\"#"
+"\">link</a>"
+msgstr ""
+
+#: theme-update-checker.php:113
+msgid "Thanks for purchasing our Weblizar Theme"
+msgstr ""

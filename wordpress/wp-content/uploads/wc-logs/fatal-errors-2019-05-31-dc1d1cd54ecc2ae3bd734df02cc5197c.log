@@ -1,0 +1,9 @@
+2019-05-31T18:36:02+00:00 CRITICAL Uncaught Error: Call to undefined function simplexml_load_string() in /var/www/html/wordpress/wp-content/plugins/formidable/classes/controllers/FrmXMLController.php:44
+Stack trace:
+#0 /var/www/html/wordpress/wp-includes/class-wp-hook.php(286): FrmXMLController::install_template('')
+#1 /var/www/html/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 /var/www/html/wordpress/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /var/www/html/wordpress/wp-admin/admin-ajax.php(173): do_action('wp_ajax_frm_ins...')
+#4 {main}
+  thrown dans /var/www/html/wordpress/wp-content/plugins/formidable/classes/controllers/FrmXMLController.php à la ligne 44
+
