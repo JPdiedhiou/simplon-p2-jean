@@ -1,0 +1,362 @@
+header
+{
+  border: 1px solid red;
+  background:#404040;
+  background-image: -webkit-linear-gradient(top, #404040, #404040);
+  background-image: -moz-linear-gradient(top, #404040, #404040);
+  border-color: #2d6324;
+  color: #fff;
+  height: 	70px;
+}
+header ul
+{
+	display: block;
+	float: left;
+	margin-left: 2px;
+}
+#cpt
+{
+	color: red;
+	background: white;
+	padding: 10px;
+	border-radius: 15px;
+	font-weight: bolder;
+}
+header ul li
+{
+	display: inline-block;
+	padding-left: 25px;
+}
+header	ul	li a
+{
+	color: 	white;
+	text-decoration: none;	
+}
+#user
+{
+	border: 1px solid red;
+	padding: 	8px;
+	background: lavender;
+	color: 	black;
+	text-align: center;	
+    text-transform: capitalize;	
+    border-radius: 	10px;
+}
+#message-reader
+{
+	width: 40%;
+	border: 1px solid red;
+	display: inline-block;
+	float: left;
+	margin-top: 20px;
+	margin-left: 18%;
+	padding: 5px;
+}
+#contact-h2
+{
+	display: block;
+	
+	 text-align: center;
+	 margin: 0 auto;
+    padding: 30px 0 35px 0;
+    background: #f8f8f8 url(pattern.jpg) left top repeat;
+    -moz-box-shadow:
+        0 5px 15px 0 rgba(0,0,0,.05) inset,
+        0 -5px 15px 0 rgba(0,0,0,.05) inset;
+    -webkit-box-shadow:
+        0 5px 15px 0 rgba(0,0,0,.05) inset,
+        0 -5px 15px 0 rgba(0,0,0,.05) inset;
+    box-shadow:
+        0 5px 15px 0 rgba(0,0,0,.05) inset,
+        0 -5px 15px 0 rgba(0,0,0,.05) inset;
+}
+#sender
+{
+	text-transform: capitalize;
+	text-decoration: underline;
+	color: blue;
+}
+.user-info
+{
+  border: 1px solid black;
+  margin-top: 20px;
+  background: lavender;
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+  padding: 10px;
+  display:block; 
+  height: 400px;
+  width: 67%;
+  float: left;
+  padding-right: 8px;
+}
+.descrip-container
+{
+	display:block;
+	float: left;
+	border: 	1px solid red;
+	width: 	60%;
+	margin-top: 	20px;
+	margin-left: 20px;
+	text-align: 	center;	
+}
+#user-picture
+{
+	width: 350px;
+	height: 350px;
+    display: block;
+    float: left;
+}
+.user-info p
+{
+	font-weight: bolder;
+	font-size: 20px;
+	display: inline-block;
+	margin-right: 20px;
+	padding: 5px;
+	background: white;
+	margin-left: 5px;
+	margin-top: 0px;
+	border-bottom: 2px solid black;
+}
+.user-info h3
+{
+	margin-top: -10px;
+	height: 25px;
+	width: 102%;
+	margin-left: -10px;
+	text-align: center;
+	border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+  background:#404040;
+  background-image: -webkit-linear-gradient(top, #404040, #404040);
+  background-image: -moz-linear-gradient(top, #404040, #404040);
+  border-color: #2d6324;
+  color: white;
+}
+.user-info #description
+{
+	background: white;
+	margin-left: 5px;
+	display: inline-block;
+	width: 58%;
+	height: 270px;
+	margin-top: 2px;
+}
+#article-table #corps
+{
+	width: 300px;
+}
+#update-article-form 
+{
+	display: block;
+	float: left;
+	width: 98%;
+	margin-left: 15px;
+	margin-top: 10px;
+	text-align: center;
+}
+#update-article-form input[type=text]
+{
+	width: 80%;
+	height: 25px;
+	border-radius: 5px;
+	border: 1px solid grey;
+}
+#update-admin-form
+{
+	border: 1px solid black;
+	display: block;
+	float: left;
+	width: 40%;
+	margin-left: 20%;
+	margin-top: 20px;
+	text-align: center;
+}
+#update-admin-form input[type=text]
+{
+  width: 80%;
+}
+#update-article-form  textarea
+{
+	width: 80%;
+	height: 500px;
+	border-radius: 5px;
+	border: 1px solid grey;
+}
+textarea
+{
+	width: 80%;
+	height: 150px;
+}
+fieldset
+{
+	margin-top: 10px;
+	width: 65%;
+	text-align: center;
+	margin-left: 2%;
+	display: inline-block;
+	float: left;
+}
+nav
+{
+	border: 1px solid black;
+	display: inline-block;
+	height: 555px;
+	width: 400px;
+	margin-top:20px;
+	margin-right: 5px;
+	float: right;
+	text-align: center;
+	background:#404040;
+  background-image: -webkit-linear-gradient(top, #404040, #404040);
+  background-image: -moz-linear-gradient(top, #404040, #404040);
+  border-color: #2d6324;
+}
+nav	 img
+{
+	width: 370px;
+	height: 225px;
+	border: 1px solid black;
+	margin-top: 10px;
+	background: white;
+}
+nav ul 
+{
+	border: 1px solid black;
+	text-align: left;
+	width: 340px;
+	margin-left: 10px;
+	background: white;
+}
+nav ul li
+{
+	list-style: none;
+	border-bottom: 1px solid black;
+	margin-left: -35px;
+}
+nav li a
+{
+	text-decoration: none;
+}
+.container
+{
+	border: 1px solid black;
+	
+	display: block;
+
+}
+.reader-container
+{
+	display: inline-block;
+	float: left;
+	width: 68%;
+	padding: 5px;
+	background: lavender;
+}
+.reader
+{
+	border: 1px solid red;
+	width: 65%;
+	margin-top: 20px;
+	margin-left: 20px;
+	display: inline-block;
+	float: left;
+	  background:#404040;
+	  background-image: -webkit-linear-gradient(top, #404040, #404040);
+	  background-image: -moz-linear-gradient(top, #404040, #404040);
+	  border-color: #2d6324;
+	
+}
+.reader img
+{
+	display: block;
+	float: left;
+	width: 340px;
+	height: 215px;
+}
+.reader span
+{
+	border: 1px solid black;
+	padding: 5px;
+	text-transform: capitalize;
+	background: lavender;
+	border-top-left-radius: 15px;
+	border-top-right-radius: 15px;
+
+}
+
+#article-table 
+{   
+	float: left;
+	margin-top: 20px;
+	margin-left: 0px;
+	width: 65%;
+}
+#article-table tr td
+{
+ text-align: center;
+ font-size: 13px;
+}
+#article-table img
+{
+  width: 80px;
+  height: 50px;
+}
+#article-table th 
+{
+ background:#404040;
+ background-image: -webkit-linear-gradient(top, #404040, #404040);
+ background-image: -moz-linear-gradient(top, #404040, #404040);
+ border-color: #2d6324;
+ color: white;
+}
+.couleurtr2
+{
+ background: white;
+}
+.couleurtr1
+{
+ background: whitesmoke;
+}
+.reader span
+{
+	border: 1px solid black;
+	text-transform: capitalize;
+	background: white;
+}
+.reader article
+{
+	border: 1px solid black;
+	margin-top: 10px;
+	background: white;
+}
+.reader a
+{
+	color: white;
+	text-decoration: none;
+}
+footer
+{
+  border: 1px solid red;
+  background:#404040;
+  background-image: -webkit-linear-gradient(top, #404040, #404040);
+  background-image: -moz-linear-gradient(top, #404040, #404040);
+  border-color: #2d6324;
+  color: #fff;
+  display: inline-block;
+  height: 200px;
+  width: 100%;
+  margin-top: 20px;
+}
+footer ul li
+{
+	display: inline-block;
+	margin-left: 50px;
+	list-style: none;
+}
+footer ul li a
+{
+	color: white;
+	text-decoration: none;
+}

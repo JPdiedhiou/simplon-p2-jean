@@ -1,0 +1,176 @@
+@charset "utf-8";
+
+/*--font family: rale way sans serif ; */
+/*bleu clair-#3498DB */
+/*bleu foncé-#2C3E50 */
+body, html{
+	padding: 0;
+	margin: 0;
+}
+
+body{
+	font-family: "raleway", sanserif;
+}
+
+a, a:hover {
+     text-decoration: none;
+}
+
+.container-fluid{
+	padding: 0;
+}
+
+.btn-custom {
+  border-radius: 6px;
+  width: 10%;
+  height: 30px;
+  background-color: #3498DB; 
+  color: #000;
+}
+
+.separator {
+	height: 6px;
+	width: 80px;
+	border: none;
+	background-color: #3498DB;
+}
+/*header*/
+.header {
+	background-color: #3998DB;
+	height: 70px;
+	line-height: 80px;
+}
+
+.logo {
+	color: #fff;
+	text-transform: uppercase;
+	font-weight: bold;
+	letter-spacing:2px;
+}
+
+.menu {
+	float: right;
+}
+
+.menu a {
+  color: #fff;
+  margin-right: 25PX;
+}
+
+.menu a:hover{
+	color: #2C3E50;
+}
+/*end header*/
+
+/*banniere*/
+.banner {
+	width: 100%;
+	max-width: 100%;
+}
+
+.ban{
+	width: 100%;
+	max-width: 100%
+    position: relative;
+}
+
+.ban img {
+	width: 100%;
+	max-width: 100%;
+}
+
+.inner-banner {
+	position: absolute;
+	top: 40%;
+	left: 0;
+	width: 100%;
+	text-align: center;
+}
+
+.inner-banner h1 {
+	color: #fff;
+	text-shadow: 1px 1px 20px #000000; 
+}
+
+.inner-banner .btn-custom {
+  background-color: #3498DB; 
+  color: #000;
+}
+
+.inner-banner .btn-custom:hover{
+background-color: #2C3E50;
+}
+/*apropos*/
+ #apropos {
+	text-align: center;
+	padding-top: 10%;
+}
+
+.apropos article {
+	margin-top: 10%;
+	margin-bottom: 10%;
+}
+
+.apropos article h2{
+text-align: center;
+
+}
+
+/*portfolio*/
+.portfolio {
+	background-color: #eeeeee; 
+}
+
+#portfolio{
+	text-align: center;
+}
+
+.portfolio .item-folio{
+	height: 180px;
+	background-color:#3498DB;
+}
+/*contact*/
+
+.footer {
+	background-color: #2C3E50;
+	height: 500px;
+}
+
+.footer p {
+	color: #fff;
+	text-align: center;
+	padding-top: 3%;
+}
+
+#contact{
+	color:#fff;
+	text-align: center;
+}
+
+.formulairecontact{
+	width: 500px;
+	display: block;
+	margin: 0 auto;
+}
+
+input {
+	margin-bottom: 20px;
+}
+
+input [type="text"]{
+	height: 50px;
+	width: 500px;
+	border: none;
+}
+input[type=email]{
+	height: 50px;
+	width: 500px;
+	border: none ;
+	border: none;
+}
+
+textarea {
+	width: 500px;
+	height: 200px;
+	resize: vertical;
+} 

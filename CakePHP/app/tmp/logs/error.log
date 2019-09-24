@@ -1,0 +1,1792 @@
+2019-02-11 14:23:37 Error: [MissingViewException] View file "D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\app\View\Posts\index.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'D:\\EasyPHP-DevServer-14.1VC9\\data\\localweb\\projects\\CakePHP\\app\\View\\Posts\\index.ctp',
+)
+Request URL: /projects/CakePHP/posts/index?prenom=Jean&nom=Diedhiou
+Stack Trace:
+#0 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\lib\Cake\View\View.php(468): View->_getViewFileName(NULL)
+#1 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\lib\Cake\Controller\Controller.php(954): View->render(NULL, NULL)
+#2 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\lib\Cake\Routing\Dispatcher.php(198): Controller->render()
+#3 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\lib\Cake\Routing\Dispatcher.php(165): Dispatcher->_invoke(Object(Postscontroller), Object(CakeRequest))
+#4 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2019-02-11 14:32:00 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /projects/CakePHP/assets/css/bootstrap.css
+Stack Trace:
+#0 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-02-11 14:32:01 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /projects/CakePHP/assets/js/jquery.js
+Stack Trace:
+#0 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-02-11 14:32:01 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /projects/CakePHP/assets/css/bootstrap-responsive.css
+Stack Trace:
+#0 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-02-11 14:32:01 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /projects/CakePHP/assets/ico/favicon.png
+Stack Trace:
+#0 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-02-11 14:32:01 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /projects/CakePHP/assets/js/bootstrap-transition.js
+Stack Trace:
+#0 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-02-11 14:32:02 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /projects/CakePHP/assets/js/bootstrap-modal.js
+Stack Trace:
+#0 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-02-11 14:32:02 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /projects/CakePHP/assets/js/bootstrap-scrollspy.js
+Stack Trace:
+#0 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-02-11 14:32:02 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /projects/CakePHP/assets/js/bootstrap-alert.js
+Stack Trace:
+#0 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-02-11 14:32:02 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /projects/CakePHP/assets/js/bootstrap-dropdown.js
+Stack Trace:
+#0 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-02-11 14:32:02 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /projects/CakePHP/assets/js/bootstrap-tab.js
+Stack Trace:
+#0 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-02-11 14:32:02 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /projects/CakePHP/assets/js/bootstrap-tooltip.js
+Stack Trace:
+#0 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-02-11 14:32:03 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /projects/CakePHP/assets/js/bootstrap-button.js
+Stack Trace:
+#0 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-02-11 14:32:03 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /projects/CakePHP/assets/js/bootstrap-popover.js
+Stack Trace:
+#0 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-02-11 14:32:03 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /projects/CakePHP/assets/js/bootstrap-collapse.js
+Stack Trace:
+#0 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-02-11 14:32:03 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /projects/CakePHP/assets/js/bootstrap-carousel.js
+Stack Trace:
+#0 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-02-11 14:32:03 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /projects/CakePHP/assets/js/bootstrap-typeahead.js
+Stack Trace:
+#0 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-02-11 14:32:04 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /projects/CakePHP/assets/js/bootstrap-modal.js
+Stack Trace:
+#0 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-02-11 14:32:04 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /projects/CakePHP/assets/js/bootstrap-dropdown.js
+Stack Trace:
+#0 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-02-11 14:32:04 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /projects/CakePHP/assets/js/bootstrap-scrollspy.js
+Stack Trace:
+#0 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-02-11 14:32:05 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /projects/CakePHP/assets/js/bootstrap-tab.js
+Stack Trace:
+#0 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-02-11 14:32:05 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /projects/CakePHP/assets/js/bootstrap-tooltip.js
+Stack Trace:
+#0 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-02-11 14:32:05 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /projects/CakePHP/assets/js/bootstrap-popover.js
+Stack Trace:
+#0 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-02-11 14:32:06 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /projects/CakePHP/assets/js/bootstrap-button.js
+Stack Trace:
+#0 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-02-11 14:32:06 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /projects/CakePHP/assets/js/bootstrap-collapse.js
+Stack Trace:
+#0 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-02-11 14:32:06 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /projects/CakePHP/assets/js/bootstrap-carousel.js
+Stack Trace:
+#0 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-02-11 14:32:07 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /projects/CakePHP/assets/js/bootstrap-typeahead.js
+Stack Trace:
+#0 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-02-11 14:33:45 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /projects/CakePHP/assets/css/bootstrap.css
+Stack Trace:
+#0 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-02-11 14:33:45 Error: [MissingControllerException] Controller class CakePHPController could not be found.
+Exception Attributes: array (
+  'class' => 'CakePHPController',
+  'plugin' => NULL,
+)
+Request URL: /projects/CakePHP/CakePHP/css/bootstrap.css
+Stack Trace:
+#0 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-02-11 14:33:45 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /projects/CakePHP/assets/js/jquery.js
+Stack Trace:
+#0 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-02-11 14:33:46 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /projects/CakePHP/assets/js/bootstrap-transition.js
+Stack Trace:
+#0 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-02-11 14:33:46 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /projects/CakePHP/assets/js/bootstrap-alert.js
+Stack Trace:
+#0 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-02-11 14:33:46 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /projects/CakePHP/assets/js/bootstrap-dropdown.js
+Stack Trace:
+#0 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-02-11 14:33:46 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /projects/CakePHP/assets/js/bootstrap-tab.js
+Stack Trace:
+#0 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-02-11 14:33:47 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /projects/CakePHP/assets/js/bootstrap-scrollspy.js
+Stack Trace:
+#0 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-02-11 14:33:47 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /projects/CakePHP/assets/js/bootstrap-tooltip.js
+Stack Trace:
+#0 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-02-11 14:33:47 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /projects/CakePHP/assets/js/bootstrap-popover.js
+Stack Trace:
+#0 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-02-11 14:33:47 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /projects/CakePHP/assets/js/bootstrap-button.js
+Stack Trace:
+#0 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-02-11 14:33:47 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /projects/CakePHP/assets/js/bootstrap-collapse.js
+Stack Trace:
+#0 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-02-11 14:33:48 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /projects/CakePHP/assets/js/bootstrap-carousel.js
+Stack Trace:
+#0 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-02-11 14:33:48 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /projects/CakePHP/assets/js/bootstrap-typeahead.js
+Stack Trace:
+#0 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-02-11 14:33:48 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /projects/CakePHP/assets/js/bootstrap-modal.js
+Stack Trace:
+#0 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-02-11 14:33:48 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /projects/CakePHP/assets/js/bootstrap-dropdown.js
+Stack Trace:
+#0 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-02-11 14:33:49 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /projects/CakePHP/assets/js/bootstrap-scrollspy.js
+Stack Trace:
+#0 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-02-11 14:33:49 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /projects/CakePHP/assets/js/bootstrap-tab.js
+Stack Trace:
+#0 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-02-11 14:33:50 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /projects/CakePHP/assets/js/bootstrap-tooltip.js
+Stack Trace:
+#0 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-02-11 14:33:50 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /projects/CakePHP/assets/js/bootstrap-popover.js
+Stack Trace:
+#0 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-02-11 14:33:50 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /projects/CakePHP/assets/js/bootstrap-button.js
+Stack Trace:
+#0 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-02-11 14:33:51 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /projects/CakePHP/assets/js/bootstrap-collapse.js
+Stack Trace:
+#0 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-02-11 14:33:51 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /projects/CakePHP/assets/js/bootstrap-carousel.js
+Stack Trace:
+#0 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-02-11 14:33:52 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /projects/CakePHP/assets/js/bootstrap-typeahead.js
+Stack Trace:
+#0 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-02-11 14:34:09 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /projects/CakePHP/assets/js/jquery.js
+Stack Trace:
+#0 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-02-11 14:34:09 Error: [MissingControllerException] Controller class CakePHPController could not be found.
+Exception Attributes: array (
+  'class' => 'CakePHPController',
+  'plugin' => NULL,
+)
+Request URL: /projects/CakePHP/CakePHP/css/bootstrap.css
+Stack Trace:
+#0 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-02-11 14:34:09 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /projects/CakePHP/assets/js/bootstrap-transition.js
+Stack Trace:
+#0 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-02-11 14:34:09 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /projects/CakePHP/assets/js/bootstrap-alert.js
+Stack Trace:
+#0 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-02-11 14:34:09 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /projects/CakePHP/assets/js/bootstrap-modal.js
+Stack Trace:
+#0 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-02-11 14:34:10 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /projects/CakePHP/assets/js/bootstrap-tab.js
+Stack Trace:
+#0 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-02-11 14:34:10 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /projects/CakePHP/assets/js/bootstrap-scrollspy.js
+Stack Trace:
+#0 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-02-11 14:34:10 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /projects/CakePHP/assets/js/bootstrap-tooltip.js
+Stack Trace:
+#0 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-02-11 14:34:10 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /projects/CakePHP/assets/js/bootstrap-popover.js
+Stack Trace:
+#0 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-02-11 14:34:10 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /projects/CakePHP/assets/js/bootstrap-button.js
+Stack Trace:
+#0 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-02-11 14:34:11 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /projects/CakePHP/assets/js/bootstrap-collapse.js
+Stack Trace:
+#0 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-02-11 14:34:11 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /projects/CakePHP/assets/js/bootstrap-carousel.js
+Stack Trace:
+#0 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-02-11 14:34:11 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /projects/CakePHP/assets/js/bootstrap-dropdown.js
+Stack Trace:
+#0 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-02-11 14:34:11 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /projects/CakePHP/assets/js/bootstrap-typeahead.js
+Stack Trace:
+#0 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-02-11 14:34:11 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /projects/CakePHP/assets/js/bootstrap-transition.js
+Stack Trace:
+#0 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-02-11 14:34:12 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /projects/CakePHP/assets/js/bootstrap-alert.js
+Stack Trace:
+#0 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-02-11 14:34:12 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /projects/CakePHP/assets/js/bootstrap-modal.js
+Stack Trace:
+#0 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-02-11 14:34:12 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /projects/CakePHP/assets/js/bootstrap-dropdown.js
+Stack Trace:
+#0 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-02-11 14:34:13 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /projects/CakePHP/assets/js/bootstrap-scrollspy.js
+Stack Trace:
+#0 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-02-11 14:34:13 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /projects/CakePHP/assets/js/bootstrap-tab.js
+Stack Trace:
+#0 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-02-11 14:34:13 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /projects/CakePHP/assets/js/bootstrap-tooltip.js
+Stack Trace:
+#0 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-02-11 14:34:14 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /projects/CakePHP/assets/js/bootstrap-popover.js
+Stack Trace:
+#0 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-02-11 14:34:14 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /projects/CakePHP/assets/js/bootstrap-button.js
+Stack Trace:
+#0 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-02-11 14:34:14 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /projects/CakePHP/assets/js/bootstrap-collapse.js
+Stack Trace:
+#0 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-02-11 14:34:15 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /projects/CakePHP/assets/js/bootstrap-carousel.js
+Stack Trace:
+#0 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-02-11 14:34:15 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /projects/CakePHP/assets/js/bootstrap-typeahead.js
+Stack Trace:
+#0 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-02-11 14:36:24 Error: Fatal Error (1): Maximum execution time of 30 seconds exceeded in [D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\lib\Cake\Utility\Debugger.php, line 542]
+2019-02-11 14:36:24 Error: [FatalErrorException] Maximum execution time of 30 seconds exceeded
+Request URL: /projects/CakePHP/posts/index?prenom=Jean&nom=Diedhiou
+Stack Trace:
+#0 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Maximum executi...', 'D:\EasyPHP-DevS...', 542)
+#1 [internal function]: ErrorHandler::handleError(1, 'Maximum executi...', 'D:\EasyPHP-DevS...', 542, Array)
+#2 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\lib\Cake\Core\App.php(931): call_user_func('ErrorHandler::h...', 1, 'Maximum executi...', 'D:\EasyPHP-DevS...', 542, Array)
+#3 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2019-02-11 14:39:03 Error: Fatal Error (1): Maximum execution time of 30 seconds exceeded in [D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\lib\Cake\Utility\Debugger.php, line 482]
+2019-02-11 14:39:03 Error: [FatalErrorException] Maximum execution time of 30 seconds exceeded
+Request URL: /projects/CakePHP/posts/index?prenom=Jean&nom=Diedhiou
+Stack Trace:
+#0 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Maximum executi...', 'D:\EasyPHP-DevS...', 482)
+#1 [internal function]: ErrorHandler::handleError(1, 'Maximum executi...', 'D:\EasyPHP-DevS...', 482, Array)
+#2 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\lib\Cake\Core\App.php(931): call_user_func('ErrorHandler::h...', 1, 'Maximum executi...', 'D:\EasyPHP-DevS...', 482, Array)
+#3 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2019-02-11 14:39:51 Error: Fatal Error (1): Maximum execution time of 30 seconds exceeded in [D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\lib\Cake\Utility\Debugger.php, line 811]
+2019-02-11 14:39:51 Error: [FatalErrorException] Maximum execution time of 30 seconds exceeded
+Request URL: /projects/CakePHP/
+Stack Trace:
+#0 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Maximum executi...', 'D:\EasyPHP-DevS...', 811)
+#1 [internal function]: ErrorHandler::handleError(1, 'Maximum executi...', 'D:\EasyPHP-DevS...', 811, Array)
+#2 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\lib\Cake\Core\App.php(931): call_user_func('ErrorHandler::h...', 1, 'Maximum executi...', 'D:\EasyPHP-DevS...', 811, Array)
+#3 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2019-02-11 14:43:19 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /projects/CakePHP/assets/js/bootstrap-alert.js
+Stack Trace:
+#0 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-02-11 14:43:19 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /projects/CakePHP/assets/js/jquery.js
+Stack Trace:
+#0 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-02-11 14:43:19 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /projects/CakePHP/assets/js/bootstrap-transition.js
+Stack Trace:
+#0 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-02-11 14:43:20 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /projects/CakePHP/assets/js/bootstrap-scrollspy.js
+Stack Trace:
+#0 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-02-11 14:43:20 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /projects/CakePHP/assets/js/bootstrap-modal.js
+Stack Trace:
+#0 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-02-11 14:43:20 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /projects/CakePHP/assets/js/bootstrap-tab.js
+Stack Trace:
+#0 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-02-11 14:43:20 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /projects/CakePHP/assets/js/bootstrap-dropdown.js
+Stack Trace:
+#0 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-02-11 14:43:21 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /projects/CakePHP/assets/js/bootstrap-tooltip.js
+Stack Trace:
+#0 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-02-11 14:43:21 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /projects/CakePHP/assets/js/bootstrap-popover.js
+Stack Trace:
+#0 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-02-11 14:43:21 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /projects/CakePHP/assets/js/bootstrap-button.js
+Stack Trace:
+#0 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-02-11 14:43:21 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /projects/CakePHP/assets/js/bootstrap-collapse.js
+Stack Trace:
+#0 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-02-11 14:43:21 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /projects/CakePHP/assets/js/bootstrap-carousel.js
+Stack Trace:
+#0 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-02-11 14:43:22 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /projects/CakePHP/assets/js/bootstrap-typeahead.js
+Stack Trace:
+#0 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-02-11 14:43:22 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /projects/CakePHP/assets/js/bootstrap-alert.js
+Stack Trace:
+#0 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-02-11 14:43:22 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /projects/CakePHP/assets/js/bootstrap-modal.js
+Stack Trace:
+#0 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-02-11 14:43:23 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /projects/CakePHP/assets/js/bootstrap-dropdown.js
+Stack Trace:
+#0 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-02-11 14:43:23 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /projects/CakePHP/assets/js/bootstrap-scrollspy.js
+Stack Trace:
+#0 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-02-11 14:43:23 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /projects/CakePHP/assets/js/bootstrap-tab.js
+Stack Trace:
+#0 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-02-11 14:43:24 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /projects/CakePHP/assets/js/bootstrap-tooltip.js
+Stack Trace:
+#0 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-02-11 14:43:24 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /projects/CakePHP/assets/js/bootstrap-popover.js
+Stack Trace:
+#0 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-02-11 14:43:25 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /projects/CakePHP/assets/js/bootstrap-button.js
+Stack Trace:
+#0 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-02-11 14:43:25 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /projects/CakePHP/assets/js/bootstrap-collapse.js
+Stack Trace:
+#0 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-02-11 14:43:25 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /projects/CakePHP/assets/js/bootstrap-carousel.js
+Stack Trace:
+#0 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-02-11 14:43:26 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /projects/CakePHP/assets/js/bootstrap-typeahead.js
+Stack Trace:
+#0 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-02-11 14:45:31 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /projects/CakePHP/assets/js/bootstrap-transition.js
+Stack Trace:
+#0 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-02-11 14:45:31 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /projects/CakePHP/assets/js/jquery.js
+Stack Trace:
+#0 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-02-11 14:45:31 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /projects/CakePHP/assets/js/bootstrap-alert.js
+Stack Trace:
+#0 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-02-11 14:45:31 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /projects/CakePHP/assets/js/bootstrap-modal.js
+Stack Trace:
+#0 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-02-11 14:45:31 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /projects/CakePHP/assets/js/bootstrap-dropdown.js
+Stack Trace:
+#0 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-02-11 14:45:32 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /projects/CakePHP/assets/js/bootstrap-tooltip.js
+Stack Trace:
+#0 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-02-11 14:45:32 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /projects/CakePHP/assets/js/bootstrap-tab.js
+Stack Trace:
+#0 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-02-11 14:45:32 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /projects/CakePHP/assets/js/bootstrap-popover.js
+Stack Trace:
+#0 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-02-11 14:45:32 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /projects/CakePHP/assets/js/bootstrap-button.js
+Stack Trace:
+#0 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-02-11 14:45:32 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /projects/CakePHP/assets/js/bootstrap-collapse.js
+Stack Trace:
+#0 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-02-11 14:45:33 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /projects/CakePHP/assets/js/bootstrap-typeahead.js
+Stack Trace:
+#0 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-02-11 14:45:33 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /projects/CakePHP/assets/js/bootstrap-carousel.js
+Stack Trace:
+#0 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-02-11 14:45:33 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /projects/CakePHP/assets/js/bootstrap-transition.js
+Stack Trace:
+#0 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-02-11 14:45:33 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /projects/CakePHP/assets/js/bootstrap-scrollspy.js
+Stack Trace:
+#0 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-02-11 14:45:33 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /projects/CakePHP/assets/js/bootstrap-alert.js
+Stack Trace:
+#0 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-02-11 14:45:34 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /projects/CakePHP/assets/js/bootstrap-modal.js
+Stack Trace:
+#0 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-02-11 14:45:34 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /projects/CakePHP/assets/js/bootstrap-dropdown.js
+Stack Trace:
+#0 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-02-11 14:45:35 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /projects/CakePHP/assets/js/bootstrap-scrollspy.js
+Stack Trace:
+#0 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-02-11 14:45:35 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /projects/CakePHP/assets/js/bootstrap-tab.js
+Stack Trace:
+#0 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-02-11 14:45:35 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /projects/CakePHP/assets/js/bootstrap-tooltip.js
+Stack Trace:
+#0 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-02-11 14:45:36 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /projects/CakePHP/assets/js/bootstrap-popover.js
+Stack Trace:
+#0 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-02-11 14:45:36 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /projects/CakePHP/assets/js/bootstrap-button.js
+Stack Trace:
+#0 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-02-11 14:45:36 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /projects/CakePHP/assets/js/bootstrap-collapse.js
+Stack Trace:
+#0 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-02-11 14:45:37 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /projects/CakePHP/assets/js/bootstrap-carousel.js
+Stack Trace:
+#0 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-02-11 14:45:37 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /projects/CakePHP/assets/js/bootstrap-typeahead.js
+Stack Trace:
+#0 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-02-11 14:48:03 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /projects/CakePHP/assets/js/bootstrap-alert.js
+Stack Trace:
+#0 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-02-11 14:48:03 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /projects/CakePHP/assets/js/jquery.js
+Stack Trace:
+#0 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-02-11 14:48:03 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /projects/CakePHP/assets/js/bootstrap-transition.js
+Stack Trace:
+#0 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-02-11 14:48:03 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /projects/CakePHP/assets/js/bootstrap-modal.js
+Stack Trace:
+#0 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-02-11 14:48:04 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /projects/CakePHP/assets/js/bootstrap-tab.js
+Stack Trace:
+#0 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-02-11 14:48:04 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /projects/CakePHP/assets/js/bootstrap-scrollspy.js
+Stack Trace:
+#0 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-02-11 14:48:04 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /projects/CakePHP/assets/js/bootstrap-dropdown.js
+Stack Trace:
+#0 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-02-11 14:48:04 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /projects/CakePHP/assets/js/bootstrap-tooltip.js
+Stack Trace:
+#0 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-02-11 14:48:04 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /projects/CakePHP/assets/js/bootstrap-popover.js
+Stack Trace:
+#0 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-02-11 14:48:05 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /projects/CakePHP/assets/js/bootstrap-button.js
+Stack Trace:
+#0 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-02-11 14:48:05 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /projects/CakePHP/assets/js/bootstrap-collapse.js
+Stack Trace:
+#0 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-02-11 14:48:05 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /projects/CakePHP/assets/js/bootstrap-carousel.js
+Stack Trace:
+#0 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-02-11 14:48:05 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /projects/CakePHP/assets/js/bootstrap-typeahead.js
+Stack Trace:
+#0 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-02-11 14:48:05 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /projects/CakePHP/assets/js/bootstrap-alert.js
+Stack Trace:
+#0 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-02-11 14:48:06 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /projects/CakePHP/assets/js/bootstrap-modal.js
+Stack Trace:
+#0 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-02-11 14:48:06 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /projects/CakePHP/assets/js/bootstrap-dropdown.js
+Stack Trace:
+#0 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-02-11 14:48:06 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /projects/CakePHP/assets/js/bootstrap-scrollspy.js
+Stack Trace:
+#0 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-02-11 14:48:07 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /projects/CakePHP/assets/js/bootstrap-tab.js
+Stack Trace:
+#0 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-02-11 14:48:07 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /projects/CakePHP/assets/js/bootstrap-tooltip.js
+Stack Trace:
+#0 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-02-11 14:48:08 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /projects/CakePHP/assets/js/bootstrap-popover.js
+Stack Trace:
+#0 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-02-11 14:48:08 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /projects/CakePHP/assets/js/bootstrap-button.js
+Stack Trace:
+#0 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-02-11 14:48:08 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /projects/CakePHP/assets/js/bootstrap-collapse.js
+Stack Trace:
+#0 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-02-11 14:48:09 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /projects/CakePHP/assets/js/bootstrap-carousel.js
+Stack Trace:
+#0 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-02-11 14:48:09 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /projects/CakePHP/assets/js/bootstrap-typeahead.js
+Stack Trace:
+#0 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-02-11 14:51:52 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /projects/CakePHP/assets/js/bootstrap-alert.js
+Stack Trace:
+#0 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-02-11 14:51:52 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /projects/CakePHP/assets/js/bootstrap-transition.js
+Stack Trace:
+#0 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-02-11 14:51:52 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /projects/CakePHP/assets/js/jquery.js
+Stack Trace:
+#0 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-02-11 14:51:53 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /projects/CakePHP/assets/js/bootstrap-modal.js
+Stack Trace:
+#0 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-02-11 14:51:53 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /projects/CakePHP/assets/js/bootstrap-dropdown.js
+Stack Trace:
+#0 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-02-11 14:51:53 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /projects/CakePHP/assets/js/bootstrap-tab.js
+Stack Trace:
+#0 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-02-11 14:51:53 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /projects/CakePHP/assets/js/bootstrap-tooltip.js
+Stack Trace:
+#0 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-02-11 14:51:54 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /projects/CakePHP/assets/js/bootstrap-scrollspy.js
+Stack Trace:
+#0 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-02-11 14:51:54 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /projects/CakePHP/assets/js/bootstrap-button.js
+Stack Trace:
+#0 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-02-11 14:51:54 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /projects/CakePHP/assets/js/bootstrap-popover.js
+Stack Trace:
+#0 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-02-11 14:51:54 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /projects/CakePHP/assets/js/bootstrap-collapse.js
+Stack Trace:
+#0 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-02-11 14:51:55 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /projects/CakePHP/assets/js/bootstrap-carousel.js
+Stack Trace:
+#0 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-02-11 14:51:55 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /projects/CakePHP/assets/js/bootstrap-alert.js
+Stack Trace:
+#0 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-02-11 14:51:55 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /projects/CakePHP/assets/js/bootstrap-typeahead.js
+Stack Trace:
+#0 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-02-11 14:51:55 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /projects/CakePHP/assets/js/bootstrap-modal.js
+Stack Trace:
+#0 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-02-11 14:51:56 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /projects/CakePHP/assets/js/bootstrap-dropdown.js
+Stack Trace:
+#0 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-02-11 14:51:56 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /projects/CakePHP/assets/js/bootstrap-scrollspy.js
+Stack Trace:
+#0 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-02-11 14:51:56 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /projects/CakePHP/assets/js/bootstrap-tab.js
+Stack Trace:
+#0 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-02-11 14:51:57 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /projects/CakePHP/assets/js/bootstrap-tooltip.js
+Stack Trace:
+#0 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-02-11 14:51:57 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /projects/CakePHP/assets/js/bootstrap-popover.js
+Stack Trace:
+#0 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-02-11 14:51:57 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /projects/CakePHP/assets/js/bootstrap-button.js
+Stack Trace:
+#0 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-02-11 14:51:58 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /projects/CakePHP/assets/js/bootstrap-collapse.js
+Stack Trace:
+#0 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-02-11 14:51:58 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /projects/CakePHP/assets/js/bootstrap-carousel.js
+Stack Trace:
+#0 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-02-11 14:51:59 Error: [MissingControllerException] Controller class AssetsController could not be found.
+Exception Attributes: array (
+  'class' => 'AssetsController',
+  'plugin' => NULL,
+)
+Request URL: /projects/CakePHP/assets/js/bootstrap-typeahead.js
+Stack Trace:
+#0 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-02-11 15:57:42 Error: Fatal Error (4): syntax error, unexpected '?>' in [D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\app\View\Layouts\default.ctp, line 18]
+2019-02-11 15:57:42 Error: [FatalErrorException] syntax error, unexpected '?>'
+Request URL: /projects/CakePHP/posts/index
+Stack Trace:
+#0 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'D:\EasyPHP-DevS...', 18)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'D:\EasyPHP-DevS...', 18, Array)
+#2 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\lib\Cake\Core\App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'D:\EasyPHP-DevS...', 18, Array)
+#3 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2019-02-11 16:10:22 Error: [MissingActionException] Action PostsController::Jean() could not be found.
+Exception Attributes: array (
+  'controller' => 'PostsController',
+  'action' => 'Jean',
+)
+Request URL: /projects/CakePHP/posts/Jean
+Stack Trace:
+#0 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\lib\Cake\Routing\Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#1 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\lib\Cake\Routing\Dispatcher.php(165): Dispatcher->_invoke(Object(Postscontroller), Object(CakeRequest))
+#2 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2019-02-11 16:11:23 Error: [MissingActionException] Action PostsController::assets() could not be found.
+Exception Attributes: array (
+  'controller' => 'PostsController',
+  'action' => 'assets',
+)
+Request URL: /projects/CakePHP/posts/assets/ico/favicon.png
+Stack Trace:
+#0 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\lib\Cake\Routing\Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#1 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\lib\Cake\Routing\Dispatcher.php(165): Dispatcher->_invoke(Object(Postscontroller), Object(CakeRequest))
+#2 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2019-02-11 16:15:01 Error: [MissingActionException] Action PostsController::Pierre() could not be found.
+Exception Attributes: array (
+  'controller' => 'PostsController',
+  'action' => 'Pierre',
+)
+Request URL: /projects/CakePHP/posts/Pierre
+Stack Trace:
+#0 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\lib\Cake\Routing\Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#1 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\lib\Cake\Routing\Dispatcher.php(165): Dispatcher->_invoke(Object(Postscontroller), Object(CakeRequest))
+#2 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2019-02-11 16:36:18 Error: [MissingViewException] View file "D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\app\View\Posts\index.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'D:\\EasyPHP-DevServer-14.1VC9\\data\\localweb\\projects\\CakePHP\\app\\View\\Posts\\index.ctp',
+)
+Request URL: /projects/CakePHP/posts
+Stack Trace:
+#0 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\lib\Cake\View\View.php(468): View->_getViewFileName(NULL)
+#1 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\lib\Cake\Controller\Controller.php(954): View->render(NULL, NULL)
+#2 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\lib\Cake\Routing\Dispatcher.php(198): Controller->render()
+#3 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\lib\Cake\Routing\Dispatcher.php(165): Dispatcher->_invoke(Object(Postscontroller), Object(CakeRequest))
+#4 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2019-02-11 16:37:46 Error: [MissingViewException] View file "D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\app\View\Posts\index.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'D:\\EasyPHP-DevServer-14.1VC9\\data\\localweb\\projects\\CakePHP\\app\\View\\Posts\\index.ctp',
+)
+Request URL: /projects/CakePHP/posts
+Stack Trace:
+#0 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\lib\Cake\View\View.php(468): View->_getViewFileName(NULL)
+#1 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\lib\Cake\Controller\Controller.php(954): View->render(NULL, NULL)
+#2 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\lib\Cake\Routing\Dispatcher.php(198): Controller->render()
+#3 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\lib\Cake\Routing\Dispatcher.php(165): Dispatcher->_invoke(Object(Postscontroller), Object(CakeRequest))
+#4 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2019-02-11 16:47:02 Error: Fatal Error (4): syntax error, unexpected ''conditions'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in [D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\app\Controller\PostsController.php, line 6]
+2019-02-11 16:47:02 Error: [FatalErrorException] syntax error, unexpected ''conditions'' (T_CONSTANT_ENCAPSED_STRING), expecting ')'
+Request URL: /projects/CakePHP/posts
+Stack Trace:
+#0 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'D:\EasyPHP-DevS...', 6)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'D:\EasyPHP-DevS...', 6, Array)
+#2 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\lib\Cake\Core\App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'D:\EasyPHP-DevS...', 6, Array)
+#3 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2019-02-11 16:47:53 Error: Fatal Error (4): syntax error, unexpected ''conditions'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in [D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\app\Controller\PostsController.php, line 6]
+2019-02-11 16:47:53 Error: [FatalErrorException] syntax error, unexpected ''conditions'' (T_CONSTANT_ENCAPSED_STRING), expecting ')'
+Request URL: /projects/CakePHP/posts
+Stack Trace:
+#0 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'D:\EasyPHP-DevS...', 6)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'D:\EasyPHP-DevS...', 6, Array)
+#2 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\lib\Cake\Core\App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'D:\EasyPHP-DevS...', 6, Array)
+#3 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2019-02-11 16:48:36 Error: Fatal Error (4): syntax error, unexpected ''conditions'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in [D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\app\Controller\PostsController.php, line 6]
+2019-02-11 16:48:36 Error: [FatalErrorException] syntax error, unexpected ''conditions'' (T_CONSTANT_ENCAPSED_STRING), expecting ')'
+Request URL: /projects/CakePHP/posts
+Stack Trace:
+#0 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'D:\EasyPHP-DevS...', 6)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'D:\EasyPHP-DevS...', 6, Array)
+#2 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\lib\Cake\Core\App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'D:\EasyPHP-DevS...', 6, Array)
+#3 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2019-02-11 17:12:33 Error: Fatal Error (4): syntax error, unexpected 'debug' (T_STRING) in [D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\app\Controller\PostsController.php, line 7]
+2019-02-11 17:12:33 Error: [FatalErrorException] syntax error, unexpected 'debug' (T_STRING)
+Request URL: /projects/CakePHP/posts
+Stack Trace:
+#0 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'D:\EasyPHP-DevS...', 7)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'D:\EasyPHP-DevS...', 7, Array)
+#2 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\lib\Cake\Core\App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'D:\EasyPHP-DevS...', 7, Array)
+#3 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2019-02-11 17:16:02 Error: Fatal Error (4): syntax error, unexpected '=>' (T_DOUBLE_ARROW) in [D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\app\Controller\PostsController.php, line 5]
+2019-02-11 17:16:02 Error: [FatalErrorException] syntax error, unexpected '=>' (T_DOUBLE_ARROW)
+Request URL: /projects/CakePHP/posts
+Stack Trace:
+#0 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'D:\EasyPHP-DevS...', 5)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'D:\EasyPHP-DevS...', 5, Array)
+#2 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\lib\Cake\Core\App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'D:\EasyPHP-DevS...', 5, Array)
+#3 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2019-02-11 17:23:48 Error: Fatal Error (1): Call to undefined function random() in [D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\app\Model\Post.php, line 5]
+2019-02-11 17:23:48 Error: [FatalErrorException] Call to undefined function random()
+Request URL: /projects/CakePHP/posts
+Stack Trace:
+#0 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to undefin...', 'D:\EasyPHP-DevS...', 5)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', 'D:\EasyPHP-DevS...', 5, Array)
+#2 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\lib\Cake\Core\App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', 'D:\EasyPHP-DevS...', 5, Array)
+#3 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2019-02-11 17:33:53 Error: [MissingViewException] View file "D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\app\View\Posts\index.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'D:\\EasyPHP-DevServer-14.1VC9\\data\\localweb\\projects\\CakePHP\\app\\View\\Posts\\index.ctp',
+)
+Request URL: /projects/CakePHP/posts
+Stack Trace:
+#0 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\lib\Cake\View\View.php(468): View->_getViewFileName(NULL)
+#1 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\lib\Cake\Controller\Controller.php(954): View->render(NULL, NULL)
+#2 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\lib\Cake\Routing\Dispatcher.php(198): Controller->render()
+#3 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\lib\Cake\Routing\Dispatcher.php(165): Dispatcher->_invoke(Object(Postscontroller), Object(CakeRequest))
+#4 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2019-02-11 17:36:18 Error: [MissingViewException] View file "D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\app\View\Posts\index.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'D:\\EasyPHP-DevServer-14.1VC9\\data\\localweb\\projects\\CakePHP\\app\\View\\Posts\\index.ctp',
+)
+Request URL: /projects/CakePHP/posts
+Stack Trace:
+#0 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\lib\Cake\View\View.php(468): View->_getViewFileName(NULL)
+#1 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\lib\Cake\Controller\Controller.php(954): View->render(NULL, NULL)
+#2 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\lib\Cake\Routing\Dispatcher.php(198): Controller->render()
+#3 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\lib\Cake\Routing\Dispatcher.php(165): Dispatcher->_invoke(Object(Postscontroller), Object(CakeRequest))
+#4 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2019-02-12 23:05:41 Error: [MissingViewException] View file "D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\app\View\Posts\index.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'D:\\EasyPHP-DevServer-14.1VC9\\data\\localweb\\projects\\CakePHP\\app\\View\\Posts\\index.ctp',
+)
+Request URL: /projects/CakePHP/posts/index
+Stack Trace:
+#0 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\lib\Cake\View\View.php(468): View->_getViewFileName(NULL)
+#1 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\lib\Cake\Controller\Controller.php(954): View->render(NULL, NULL)
+#2 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\lib\Cake\Routing\Dispatcher.php(198): Controller->render()
+#3 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\lib\Cake\Routing\Dispatcher.php(165): Dispatcher->_invoke(Object(Postscontroller), Object(CakeRequest))
+#4 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2019-02-12 23:06:17 Error: [MissingViewException] View file "D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\app\View\Posts\index.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'D:\\EasyPHP-DevServer-14.1VC9\\data\\localweb\\projects\\CakePHP\\app\\View\\Posts\\index.ctp',
+)
+Request URL: /projects/CakePHP/posts/
+Stack Trace:
+#0 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\lib\Cake\View\View.php(468): View->_getViewFileName(NULL)
+#1 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\lib\Cake\Controller\Controller.php(954): View->render(NULL, NULL)
+#2 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\lib\Cake\Routing\Dispatcher.php(198): Controller->render()
+#3 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\lib\Cake\Routing\Dispatcher.php(165): Dispatcher->_invoke(Object(Postscontroller), Object(CakeRequest))
+#4 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2019-03-10 22:03:46 Error: [MissingControllerException] Controller class LinksController could not be found.
+Exception Attributes: array (
+  'class' => 'LinksController',
+  'plugin' => NULL,
+)
+Request URL: /projects/CakePHP/links/ajouter
+Stack Trace:
+#0 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-03-10 22:04:18 Error: [MissingControllerException] Controller class LinksController could not be found.
+Exception Attributes: array (
+  'class' => 'LinksController',
+  'plugin' => NULL,
+)
+Request URL: /projects/CakePHP/links/add
+Stack Trace:
+#0 D:\EasyPHP-DevServer-14.1VC9\data\localweb\projects\CakePHP\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}

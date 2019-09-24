@@ -1,0 +1,42 @@
+{
+    "source": {
+        "include": ["."],
+
+        "exclude": ["test/", "node_modules/",
+                    "js/tests/", "js/vendor/",
+                    "coverage/", "dont-deploy/", "doc/",	
+                    "aesasm.js",
+                    "e10s.js",
+                    "strg.js",
+                    "sjcl.js",
+                    "fileapi.js",
+                    "karma.conf.js.js",
+                    "js/chat/mpenc.js",
+                    "js/transfers/meths/firefox-extension.js",
+                    "js/jquery.checkboxes.js",
+                    "js/jquery.misc.js",
+                    "js/jquery.qrcode.js",
+                    "js/jquery.tokeninput.js"
+                   ],
+        "includePattern": ".+\\.js(doc)?$",
+        "excludePattern": "(^|\\/|\\\\)_"
+    },
+    "templates": {
+        "applicationName": "Mega Webclient",
+        "disqus": "",
+        "googleAnalytics": "",
+        "openGraph": {
+            "title": "Mega Webclient",
+            "type": "website",
+            "image": "",
+            "site_name": "",
+            "url": ""
+        },
+        "meta": {
+            "title": "Mega Webclient",
+            "description": "",
+            "keyword": ""
+        }
+    },
+    "plugins": ["plugins/markdown"]
+}
